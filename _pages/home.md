@@ -1,5 +1,5 @@
 ---
-title: Xuan Wang Group at CityU
+title: Gao Meng Group at HKBU
 layout: homelay
 excerpt: Home
 sitemap: false
