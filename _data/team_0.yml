@@ -1,9 +1,9 @@
-- name: Xuan Wang (王轩/王軒)
-  photo: Xuan.jpg
-  info: 'Assistant Professor'
-  email: xuanwang@cityu.edu.hk
+- name: Meng Gao (高蒙)
+  photo: gaomeng.png
+  info: 'Professor'
+  email: mmgao2@hkbu.edu.hk
   number_educ: 2
-  education1: 'Postdoc, Harvard University, 2017-2019'
-  education2: 'PhD, MIT, 2017'
-  office: YEUNG-G5711
-  tel: (+852) 3442-2483
+  education1: 'Postdoc, Harvard University, 2016-2019'
+  education2: 'PhD, University of Iowa, 2012-2015'
+  office: AAB 1225
+  tel: (+852) 3411-7190
