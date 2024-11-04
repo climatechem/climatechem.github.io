@@ -1,10 +1,17 @@
-- name: Xiaorui Zhang (张笑瑞)
-  photo: xiaorui.jpg
-  info: Postdoctoral Fellow (2024.10 - )
-  email: 20482221@life.hkbu.edu.hk
+- name: Qianqian Yang (杨倩倩)
+  photo: qianqianyang.jpg
+  info: Postdoctoral Fellow (2023.8 - )
+  email: xiliu42-c@my.cityu.edu.hk
   number_educ: 2
-  education1: 'PhD, Hong Kong Baptist University, 2024'
-  education2: 'MSc, Lanzhou University, 2020'
+  education1: 'PhD, Wuhan University, 2023'
+  education2: 'BSc, Wuhan University, 2017'
+  
+- name: Liuhua Zhu (朱柳桦)
+  photo: zhuliuhua.jpg
+  info: Postdoctoral Fellow (2023.10 - )
+  email: liuhuazhu9608@gmail.com
+  number_educ: 1
+  education1: 'MSc/BSc, China University of Mining and Technology, 2023/2020'
 
 - name: Wei Zhu (朱伟)
   photo: zhuwei.jpg
@@ -15,47 +22,55 @@
   
 - name: Huibin Dai (代慧斌)
   photo: daihuibin.jpg
-  info: Postdoctoral Fellow (2024.9 - )
+  info: Postdoctoral Fellow (2024.7 - )
   email: huibindai@hkbu.edu.hk
   number_educ: 2
   education1: 'PhD, Nanjing University of Information Science and Technology, 2023'
   education2: 'BSc, Nanjing University of Information Science and Technology, 2018'
   
-- name: Qianqian Yang (杨倩倩)
-  photo: qianqianyang.jpg
-  info: Postdoctoral Fellow (2024.9 - )
-  email: xiliu42-c@my.cityu.edu.hk
+- name: Xiaorui Zhang (张笑瑞)
+  photo: xiaorui.jpg
+  info: Postdoctoral Fellow (2024.10 - )
+  email: 20482221@life.hkbu.edu.hk
   number_educ: 2
-  education1: 'PhD, Wuhan University, 2023'
-  education2: 'BSc, Wuhan University, 2017'
+  education1: 'PhD, Hong Kong Baptist University, 2024'
+  education2: 'MSc, Lanzhou University, 2020'
   
 - name: Fan Wang (王凡)
   photo: wangfan.jpg
-  info: PhD student (2022.9 - )
+  info: PhD student (2021.9 - )
   email: fanwang@life.hkbu.edu.hk
   number_educ: 2
   education1: 'MSc, Wageningen University & Research, 2020'
   education2: 'BSc, Sichuan University, 2018'
   
-- name: Yanjun Guo (郭妍君)
-  photo: Yanjun.jpg
+- name: Xinyan Li (李欣艳)
+  photo: lixinyan.jpg
   info: PhD student (2022.9 - )
-  email: yanjunguo3-c@my.cityu.edu.hk
+  email: 22482369@life.hkbu.edu.hk
   number_educ: 2
   education1: 'MEng, Fudan University, 2019'
   education2: 'BSc(Agr.), Sichuan Agricultural University, 2015'
 
-- name: Yuxin Sun (孙玉新/孫玉新)
-  photo: Yuxin.jpg
-  info: PhD student (2023.9 - )
-  email: yuxsun2-c@my.cityu.edu.hk
-  number_educ: 1
-  education1: 'MSc/BSc, China University of Mining and Technology, 2023/2020'
-
-- name: Yuwei Zhou (周雨薇)
-  photo: Yuwei.jpg
+- name: Yuyang Han (韩雨阳)
+  photo: hanyuyang.jpg
   info: PhD student (2024.9 - )
-  email: yuweizhou9-c@my.cityu.edu.hk
+  email: 23484098@life.hkbu.edu.hk
   number_educ: 2
-  education1: 'MSc, Macau University of Science and Technology, 2022'
-  education2: 'BSc, Nanjing University, 2020'
+  education1: 'M.Eng, University of Chinese Academy of Sciences, 2023'
+  education2: 'B.Sc, Nanjing University of Information Science and Technology, 2020'
+
+- name: Guanghong Zhai (翟光宏)
+  photo: zhaiguanghong.jpg
+  info: PhD student (2024.9 - )
+  email: 24481785@life.hkbu.edu.hk
+  number_educ: 1
+  education1: 'MBBS, Sun Yat-sen University, 2024'
+
+- name: Bofan Liu (刘博凡)
+  photo: liubofan.jpg
+  info: PhD student (2024.9 - )
+  email: 24482765@life.hkbu.edu.hk
+  number_educ: 2
+  education1: 'Msc., Imperial College London, 2024'
+  education2: 'Bsc., Nanjing University of Information Science and Technology, 2023'
