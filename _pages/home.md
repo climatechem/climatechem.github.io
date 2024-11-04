@@ -56,6 +56,6 @@ We are the Air Quality and Atmospheric Chemistry Modeling Group at Hong Kong Bap
 
 [Dr Gao Meng named in Forbes China 30 Under 30 List](https://www.hkbu.edu.hk/en/whats-new/discover-hkbu/2020/nov-2020/1117-dr-gao-meng-named-in-forbes-china-30-under-30-list.html)
 
-[SEE PhD student’s research paper on “Minimizing uncertainties in climate projections and water budget reveals the vulnerability of freshwater to climate change” is published on One Earth.](https://www.cityu.edu.hk/see/outreach/news-center/see-phd-students-research-paper-minimizing-uncertainties-climate-projections)
+[Dr Gao Meng wins Xie Yibing Youth Meteorological Science and Technology Award](https://www.hkbu.edu.hk/en/whats-new/discover-hkbu/2022/nov-2022/hkbu-researcher-wins-xie-yibing-youth-meteorological-science-and-technology-award.html)
 
 [SEE PhD student, Mr. Hongqing Luo, won the First Prize in 2023 Web 3.0 Innovation Hackathon and the Bronze Award in the 9th China International Internet College Students Innovation and Entrepreneurship Competition.](https://www.cityu.edu.hk/see/outreach/news-center/see-phd-student-mr-hongqing-luo-won-first-prize-2023-web-30-innovation)
