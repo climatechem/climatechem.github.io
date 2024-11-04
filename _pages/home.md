@@ -6,7 +6,7 @@ sitemap: false
 permalink: "/"
 ---
 
-We are the Air Quality and Atmospheric Chemistry Modeling Group at Hong Kong Baptist University. Our researches focus on Chemistry-Climate Interactions, Environmental Health, Climate Change Mitigation. The group uses global and regional models with observations to study the complex interactions between atmospheric chemistry, meteorology, human activities, biological processes, air pollution and climate. 
+We are the Air Quality and Atmospheric Chemistry Modeling Group at Hong Kong Baptist University. Our researches focus on Chemistry-Climate Interactions, Environmental Health, Climate Change Mitigation. The group uses global and regional models with observations to study the formation mechanisms and long-term trends of air pollution, and its interactions with weather/climate systems. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
