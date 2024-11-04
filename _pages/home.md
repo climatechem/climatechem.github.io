@@ -54,7 +54,7 @@ We are the Air Quality and Atmospheric Chemistry Modeling Group at Hong Kong Bap
 
 **Our group's achievements and news featured on school website**
 
-[Dr Gao Meng named in Forbes China 30 Under 30 List](https://www.hkbu.edu.hk/en/whats-new/discover-hkbu/2020/nov-2020/1117-dr-gao-meng-named-in-forbes-china-30-under-30-list.html))
+[Dr Gao Meng named in Forbes China 30 Under 30 List](https://www.hkbu.edu.hk/en/whats-new/discover-hkbu/2020/nov-2020/1117-dr-gao-meng-named-in-forbes-china-30-under-30-list.html)
 
 [SEE PhD student’s research paper on “Minimizing uncertainties in climate projections and water budget reveals the vulnerability of freshwater to climate change” is published on One Earth.](https://www.cityu.edu.hk/see/outreach/news-center/see-phd-students-research-paper-minimizing-uncertainties-climate-projections)
 
