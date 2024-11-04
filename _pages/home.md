@@ -58,4 +58,4 @@ We are the Air Quality and Atmospheric Chemistry Modeling Group at Hong Kong Bap
 
 [Dr Gao Meng wins Xie Yibing Youth Meteorological Science and Technology Award](https://www.hkbu.edu.hk/en/whats-new/discover-hkbu/2022/nov-2022/hkbu-researcher-wins-xie-yibing-youth-meteorological-science-and-technology-award.html)
 
-[SEE PhD student, Mr. Hongqing Luo, won the First Prize in 2023 Web 3.0 Innovation Hackathon and the Bronze Award in the 9th China International Internet College Students Innovation and Entrepreneurship Competition.](https://www.cityu.edu.hk/see/outreach/news-center/see-phd-student-mr-hongqing-luo-won-first-prize-2023-web-30-innovation)
+[The Postgraduate Outstanding Publication Award](https://geog.hkbu.edu.hk/page/72/)
