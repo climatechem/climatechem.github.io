@@ -1,21 +1,21 @@
-- name: Hao Yin (殷昊)
-  photo: YinHao.jpg
-  info: Postdoctoral Fellow (2024.9 - )
-  email: haoyin@cityu.edu.hk
+- name: Xiaorui Zhang (张笑瑞)
+  photo: xiaorui.jpg
+  info: Postdoctoral Fellow (2024.10 - )
+  email: 20482221@life.hkbu.edu.hk
   number_educ: 1
-  education1: 'PhD, University of Science and Technology of China, 2023'
+  education1: 'PhD, Hong Kong Baptist University, 2024'
 
-- name: Leyang Liu (刘乐杨/劉樂楊)
-  photo: Leyang.jpg
-  info: PhD student (2020.9 - )
-  email: leyangliu2-c@my.cityu.edu.hk
+- name: Wei Zhu (朱伟)
+  photo: zhuwei.jpg
+  info: Postdoctoral Fellow (2024.7 - )
+  email: 2020029006@chdeducn
   number_educ: 1
-  education1: 'BSc, Beijing Forestry University, 2020'
+  education1: 'PhD, Chang'an University, 2024'
   
-- name: Hongqing Luo (罗泓清/羅泓清)
-  photo: Luo hongqing.jpg
-  info: PhD student (2020.9 - )
-  email: hongqiluo2-c@my.cityu.edu.hk
+- name: Huibin Dai (代慧斌)
+  photo: daihuibin.jpg
+  info: Postdoctoral Fellow (2024.7 - )
+  email: huibindai@hkbu.edu.hk
   number_educ: 1
   education1: 'MEng/BSc, China University of Geosciences (Wuhan), 2020/2016'
   
