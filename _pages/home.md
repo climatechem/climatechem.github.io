@@ -52,9 +52,9 @@ We are the Air Quality and Atmospheric Chemistry Modeling Group at Hong Kong Bap
 **We usually have openings for new PhD students, Postdocs, Master students, and undergradate students to join the team** [(check here)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 {% endcomment %}
 
-**Our students' achievements and news featured on school website**
+**Our group's achievements and news featured on school website**
 
-[SEE PhD student received the excellent poster presentation award in the 12th National Conference on Environmental Chemistry](https://www.cityu.edu.hk/see/outreach/news-center/see-phd-student-received-excellent-poster-presentation-award-12th-national)
+[Dr Gao Meng named in Forbes China 30 Under 30 List](https://www.hkbu.edu.hk/en/whats-new/discover-hkbu/2020/nov-2020/1117-dr-gao-meng-named-in-forbes-china-30-under-30-list.html))
 
 [SEE PhD student’s research paper on “Minimizing uncertainties in climate projections and water budget reveals the vulnerability of freshwater to climate change” is published on One Earth.](https://www.cityu.edu.hk/see/outreach/news-center/see-phd-students-research-paper-minimizing-uncertainties-climate-projections)
 
