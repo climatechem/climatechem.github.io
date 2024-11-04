@@ -33,17 +33,38 @@
     url: https://www.cell.com/cell-reports-sustainability/fulltext/S2949-7906(24)00275-1
     display: "Cell Reports Sustainability 1 (8)"
   highlight: 0
-- title: "Wintertime Heavy Haze Episodes in Northeast China Driven by Agricultural Fire Emissions"
+- title: "Moderating AC Usage Can Reduce Thermal Disparity between Indoor and Outdoor Environments"
   authors: 
-    X Xie, Y Zhang, R Liang, W Chen, P Zhang, X Wang, Y Zhou, Y Cheng, J Liu
+    H Wei, B Chen, K Huang, M Gao, B Fan, T Zhang, Y Tu, B Xu
   link:
-    url: https://pubs.acs.org/doi/full/10.1021/acs.estlett.3c00940
-    display: "Environmental Science & Technology Letters, 10.1021/acs.estlett.3c00940"
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.est.4c00424
+    display: "Environ. Sci. Technol. 2024, 58, 24, 10524–10535"
   highlight: 0
-- title: "Minimizing uncertainties in climate projections and water budget reveals the vulnerability of freshwater to climate change"
+- title: "Uniformly elevated future heat stress in China driven by spatially heterogeneous water vapor changes"
   authors: 
-    OE Adeyeri, W Zhou, CE Ndehedehe, X Wang, KA Ishola, P Laux
+    F Wang, M Gao, C Liu, R Zhao, MB McElroy
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S2590332223005687
-    display: "One Earth, doi:10.1016/j.oneear.2023.12.013."
+    url: https://www.nature.com/articles/s41467-024-48895-w
+    display: "Nature Communications 15 (1), 4522"
+  highlight: 0
+  - title: "Uniformly elevated future heat stress in China driven by spatially heterogeneous water vapor changes"
+  authors: 
+    F Wang, M Gao, C Liu, R Zhao, MB McElroy
+  link:
+    url: https://www.nature.com/articles/s41467-024-48895-w
+    display: "Nature Communications 15 (1), 4522"
+  highlight: 0
+  - title: "Uniformly elevated future heat stress in China driven by spatially heterogeneous water vapor changes"
+  authors: 
+    F Wang, M Gao, C Liu, R Zhao, MB McElroy
+  link:
+    url: https://www.nature.com/articles/s41467-024-48895-w
+    display: "Nature Communications 15 (1), 4522"
+  highlight: 0
+  - title: "Uniformly elevated future heat stress in China driven by spatially heterogeneous water vapor changes"
+  authors: 
+    F Wang, M Gao, C Liu, R Zhao, MB McElroy
+  link:
+    url: https://www.nature.com/articles/s41467-024-48895-w
+    display: "Nature Communications 15 (1), 4522"
   highlight: 0
