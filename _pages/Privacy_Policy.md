@@ -8,13 +8,13 @@ permalink: /Privacy_Policy/
 
 # Privacy Policy
 
-Course catalogue and syllabus for School of Energy and Environment at City University of Hong Kong  can be found [here](https://www.cityu.edu.hk/see/programmes).
+## Who we are
 
-
+Our website address is: [Air Quality and Atmospheric Chemistry Modeling](https://zhuwei264.github.io/).
 
 ----
 
-### SEE4204 Environmental Systems Modeling
+## What personal data we collect and why we collect it
 (undergraduate core, spring)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see4204.jpg){: style="width: 410px; float: left; border: 5px;padding:10px"}
