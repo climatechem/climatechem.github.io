@@ -8,35 +8,34 @@ permalink: "/research/"
 
 # Research
 
-Our overarching goal is to explore and understand atmospheric compositions and their impacts on pollution and climate. To do so, we use chemical transport models (CTM) together with observations (from all scales: ground, drone, aircraft, satellite, etc.) to study the chemistry and physics in the atmosphere and biosphere.
+Our overarching goal is to investigate climate change mechanisms and their impacts on environmental systems and human health. To do so, we combine climate model simulations with comprehensive observational data analysis (including meteorological data, aerosol measurements, and satellite observations) to study Arctic amplification, dust aerosol variations, and humidity-temperature interactions in regional and global contexts.
 
 Here are the main research themes in our group:
 
 
-## Modeling of Global and Regional Tropospheric Chemistry
+## Arctic amplification as cause for dust reduction
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/chlorine.jpg){: style="width: 480px; float: right; border: 10px;padding:15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/r1.jpg){: style="width: 480px; float: right; border: 10px;padding:15px"}
 
 <br />
 
-Tropospheric chemsitry contributes to a series of issues in the earth system, such as air pollution, climate change, and ecological destruction. Modeling plays an important role in studying tropospheric chemistry by identifying processes, interpreting observations, assessing impacts, and making projections. 
+We have discovered that intensified Arctic amplification associated with global warming, which led to changes in atmospheric circulation, is the underlying cause of the decline in dust levels across West and South Asia over the past two decades. However, this phenomenon is a reversible one, and with the ongoing worldwide efforts to fight against global warming, dust levels in the region may rise again in future, suggesting that sustained anti-desertification measures to mitigate dust emission are warranted in the long run.
 
-In the group, we develop and use model schemes based on the GEOS-Chem global model framework to study the oxidants, gases, aerosols, and foundamental chemistry in troposphere. Current topics inlcude: tropospheric halogen chemistry; secondary aerosol formation;  heterogeneous reactions; air quality in coastal environments ...
+The research findings have been published in the international academic journal [Proceedings of the National Academy of Sciences (PNAS)](https://research.hkbu.edu.hk/news/hkbu-led-research-identifies-arctic-amplification-as-cause-for-dust-reduction-and-suggests-sustained-anti-desertification-measures). 
 
 <br/>
 <br/>
 
 ----
-## Aerosol Sources and Climate Effects
+## Humidity trends will result in widespread heat stress in China
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/brc.gif){: style="width: 420px; float: left; border: 10px;padding:15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/r2.jpg){: style="width: 420px; float: left; border: 10px;padding:15px"}
 
 <br />
 
-The earth's climate is influenced by both natural and human activities, and closely related to the chemical and physical processes in the atmosphere. Currently, the sources and properties of atmospheric aerosols are significant and very uncertain factors contributing to global climate change.  
+A study conducted by a research team led by Hong Kong Baptist University (HKBU) has discovered that there is a trend of increasing humidity in the northern part of China which is not observed in the south. This phenomenon will ultimately become a prominent factor in determining the occurrence of extreme hot and humid weather, and lead to widespread heat stress across the entire eastern part of China, the most populous region of the country, by the end of this century. 
 
-In the group, we focus on understanding the lifecycles of atmopsheric aerosols, as well as their interactions with climate system. Current topics include: aerosol direct radiative forcing; black and brown carbon; coarse aerosols ...
-
+The research findings have been published in the international academic journal [Nature Communications](https://research.hkbu.edu.hk/news/hkbu-led-research-predicts-humidity-trends-will-result-in-widespread-heat-stress-in-china).  
 
 <br/>
 <br/>
@@ -44,14 +43,3 @@ In the group, we focus on understanding the lifecycles of atmopsheric aerosols, 
 <br/>
 
 ----
-## Beyond Atmospheric Chemistry
-![]({{ site.url }}{{ site.baseurl }}/images/respic/md.jpg){: style="width: 480px; float: right; border: 10px;padding:15px"}
-
-<br />
-
-We are actively exploring possiblities of applying atmopsheric sciences and our modeling techniques on solving other environmental and engergy problems. This includes developments of new model methods and assisting the designs of carbon neutral strategies. 
-
-Current topics in the group include: urban planning and carbon cycle; mathematical model for urban climate policy; life-cycle assessment with considering nonlinear physics and chemsitry ...
-
-<br />
-<br />
