@@ -1,9 +1,9 @@
 ---
-title: Privacy Policy
+title: "Privacy Policy"
 layout: textlay
-excerpt: Privacy Policy
+excerpt: "Privacy Policy"
 sitemap: false
-permalink: "/Privacy_Policy/"
+permalink: /Privacy_Policy/
 ---
 
 # Privacy Policy
