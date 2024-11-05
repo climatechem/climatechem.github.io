@@ -22,42 +22,58 @@
     display: "Environment International 168, 107428"
   highlight: 0
 
-- title: "Limitations in representation of physical processes prevent successful simulation of PM2.5 during KORUS-AQ"
+- title: "Toward high-performance map-recovery of air pollution using machine learning"
   authors: 
-    KR Travis, JH Crawford, G Chen, CE Jordan, BA. Nault, H Kim, JL Jimenez, P Campuzano-Jost, JE Dibb, J-H Woo, Y Kim, S Zhai, X Wang, EE McDuffie11, G Luo, F Yu, S Kim, IJ Simpson, DR. Blake, L Chang, MJ Kim
+    J Song, H Fan, M Gao, Y Xu, M Ran, X Liu, Y Guo
   link:
-    url: https://acp.copernicus.org/articles/22/7933/2022/
-    display: "Atmospheric Chemistry and Physics, 22, 7933–7958"
+    url: https://pubs.acs.org/doi/abs/10.1021/acsestengg.2c00248
+    display: "ACS ES&T Engineering 3 (1), 73-85"
   highlight: 0
 
-- title: "Comprehensive chemical characterization of gaseous I/SVOC emissions from heavy-duty diesel vehicles using two-dimensional gas chromatography time-of-flight mass spectrometry"
+- title: "Pollution severity-regulated effects of roof strategies on China’s winter PM2.5"
   authors: 
-    X He, X Zheng, Y You, S Zhang, B Zhao, X Wang, G Huang, T Chen, Y Cao, L He, X Chang, S Wang, Y Wu
+    F Wang, GR Carmichael, X Zhang, X Xiao, M Gao
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0269749122004985
-    display: "Environmental Pollution, doi:10.1016/j.envpol.2022.119284"
+    url: https://www.nature.com/articles/s41612-022-00278-y
+    display: "npj Climate and Atmospheric Science 5 (1), 55"
   highlight: 0
 
-- title: "Global Emissions of Hydrogen Chloride and Particulate Chloride from Continental Sources"
+- title: "Long-term PM0. 1 exposure and human blood lipid metabolism: New insight from the 33-community study in China"
   authors: 
-    B Zhang, H Shen, X Yun, Q Zhong, BH Henderson, X Wang, L Shi, SS Gunthe, LG Huey, S Tao, AG Russell, P Liu
+    W Zhang, M Gao, X Xiao, SL Xu, S Lin, QZ Wu, GB Chen, BY Yang, ...
   link:
-    url: https://pubs.acs.org/doi/abs/10.1021/acs.est.1c05634
-    display: "Environmental Science and Technology, 56, 7, 3894–3904"
+    url: https://www.sciencedirect.com/science/article/pii/S0269749122003852
+    display: "Environmental Pollution 303, 119171"
   highlight: 0
 
-- title: "IOD, ENSO, and seasonal precipitation variation over Eastern China"
+- title: "Joint occurrence of heatwaves and ozone pollution and increased health risks in Beijing, China: role of synoptic weather pattern and urbanization"
   authors: 
-    Y Zhang, W Zhou, X Wang, X Wang, R Zhang, Y Li, J Gan
+    L Zong, Y Yang, H Xia, M Gao, Z Sun, Z Zheng, X Li, G Ning, Y Li, S Lolli
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S016980952200028X
-    display: "Atmospheric Research, 270, 106042"
+    url: https://acp.copernicus.org/articles/22/6523/2022/acp-22-6523-2022.html
+    display: "Atmospheric Chemistry and Physics 22 (10), 6523-6538"
   highlight: 0
 
-- title: "N2O5 uptake onto saline mineral dust: a potential missing source of tropospheric ClNO2 in inland China"
+- title: "Amplified upward trend of the joint occurrences of heat and ozone extremes in China over 2013–20"
   authors: 
-    H Wang, C Peng, X Wang, S Lou, K Lu, G Gan, X Jia, X Chen, J Chen, H Wang, S Fan, X Wang, M Tang
+    X Xiao, Y Xu, X Zhang, F Wang, X Lu, Z Cai, G Brasseur, M Gao
   link:
-    url: https://acp.copernicus.org/preprints/acp-2021-541/
-    display: "Atmospheric Chemistry and Physics, 22, 1845–1859"
+    url: https://journals.ametsoc.org/view/journals/bams/103/5/BAMS-D-21-0222.1.xml
+    display: "Bulletin of the American Meteorological Society 103 (5), E1330-E1342"
+  highlight: 0
+
+- title: "Stereoscopic hyperspectral remote sensing of the atmospheric environment: Innovation and prospects"
+  authors: 
+    C Liu, C Xing, Q Hu, S Wang, S Zhao, M Gao
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0012825222000423
+    display: "Earth-Science Reviews 226, 103958"
+  highlight: 0
+
+- title: "Is greener better? Associations between greenness and birth outcomes in both urban and non-urban settings"
+  authors: 
+    X Xiao, M Gao, Y Zhou, SL Xu, LD Knibbs, J Heinrich, SC Dharmage, ...
+  link:
+    url: https://academic.oup.com/ije/article-abstract/51/1/88/6354196
+    display: "International journal of epidemiology 51 (1), 88-98"
   highlight: 0
