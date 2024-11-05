@@ -17,6 +17,7 @@ Our website address is: [Air Quality and Atmospheric Chemistry Modeling](https:/
 ## What personal data we collect and why we collect it
 
 ### Comments
+![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see52011.jpg){: style="width: 450px; float: right; border: 5px;padding:10px"}
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. 
 
