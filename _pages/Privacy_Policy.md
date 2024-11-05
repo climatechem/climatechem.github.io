@@ -8,6 +8,8 @@ permalink: /Privacy_Policy/
 
 # Privacy Policy
 
+----
+
 ## Who we are
 
 Our website address is: [Air Quality and Atmospheric Chemistry Modeling](https://zhuwei264.github.io/).
