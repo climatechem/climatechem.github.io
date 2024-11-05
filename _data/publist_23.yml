@@ -1,41 +1,41 @@
-- title: "Global Observations of Tropospheric Bromine Monoxide (BrO) Columns From TROPOMI"
+- title: "Different characteristics of independent and compound extreme heat and ozone pollution events in the Greater Bay Area of China"
   authors: 
-    Y Chen, S Liu, L Zhu, S Seo, A Richter, X Li, A Ding, W Sun, L Shu, X Wang, P Valks, F Hendrick, TK Koenig, R Volkamer, B Bai, D Wang, D Pu, S Sun, J Li, X Zuo, W Fu, Y Li, P Zhang, X Yang, T-M Fu
+    Z Huang, M Luo, M Gao, G Ning, E Ge, TO Chan, S Wu, H Zhang, Y Tang
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JD039091
-    display: "Journal of Geophysical Research: Atmospheres, 128, e2023JD039091"
+    display: "International Journal of Applied Earth Observation and Geoinformation, 124, 103508"
   highlight: 0
 
-- title: "Global vegetation, moisture, thermal and climate interactions intensify compound extreme events"
+- title: "Physical informed neural network improving the WRF-CHEM results of air pollution using satellite-based remote sensing data"
   authors: 
-    OE Adeyeri, W Zhou, CE Ndehedehe, X Wang
+    B Li, Q Hu, M Gao, T Liu, C Zhang, C Liu
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0048969723078919
-    display: "Science of The Total Environment, 169261"
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1352231023004570
+    display: "Atmospheric Environment 311, 120031"
   highlight: 0
 
-- title: "Implications of Snowpack Reactive Bromine Production for Arctic Ice Core Bromine Preservation"
+- title: "Climate responses in China to domestic and foreign aerosol changes due to clean air actions during 2013–2019"
   authors: 
-    S-T Zhai, W Swanson, JR McConnell, N Chellman, N Chelman, T Opel, M Sigl, H Meyer, X Wang, L Jaegle, J Stultz, JE Dibb,  P Liu, K Fujita, B Alexander
+    J Gao, Y Yang, H Wang, P Wang, B Li, J Li, J Wei, M Gao, H Liao
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JD039257
-    display: "Journal of Geophysical Research: Atmospheres, 128, e2023JD039257"
+    url: https://www.nature.com/articles/s41612-023-00488-y
+    display: "npj Climate and Atmospheric Science 6 (1), 160"
   highlight: 0
 
-- title: "Size‐dependent nighttime formation of particulate secondary organic nitrates in urban air"
+- title: "Changes in atmospheric oxidants over Arctic Ocean atmosphere: evidence of oxygen isotope anomaly in nitrate aerosols"
   authors:
-    H Wei, R‐J Huang, J Duan, C Lin, H Zhong, W Xu, Y Gu, H Ni, Y Chang, X Wang
+    Y Zhang, Z Zhao, F Cao, W Song, Y Lin, M Fan, H Yu, H Li, Y Hong, ...
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JD038189
-    display: "Journal of Geophysical Research: Atmospheres, 128, e2022JD038189"
+    url: https://www.nature.com/articles/s41612-023-00447-7
+    display: "npj Climate and Atmospheric Science 6 (1), 124"
   highlight: 0
 
-- title: "Multivariate Drought Monitoring, Propagation, and Projection Using Bias-Corrected General Circulation Models"
+- title: "Recent progress in atmospheric chemistry research in China: establishing a theoretical framework for the “Air Pollution Complex”"
   authors: 
-    OE Adeyeri, W Zhou, P Laux, CE Ndehedehe, X Wang, M Usman, AA Akinsanola
+    T Zhu, M Tang, M Gao, X Bi, J Cao, H Che, J Chen, A Ding, P Fu, J Gao, ...
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003303
-    display: "Earth's Future, 11, 4, e2022EF003303"
+    url: https://link.springer.com/article/10.1007/s00376-023-2379-0
+    display: "Advances in Atmospheric Sciences 40 (8), 1339-1361"
   highlight: 0
 
 - title: "Land use and land cover dynamics: Implications for thermal stress and energy demands"
