@@ -15,7 +15,7 @@ Here are the main research themes in our group:
 
 ## Arctic amplification as cause for dust reduction
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/r1.jpg){: style="width: 480px; float: right; border: 10px;padding:15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/r1.png){: style="width: 480px; float: right; border: 10px;padding:15px"}
 
 <br />
 
@@ -29,7 +29,7 @@ The research findings have been published in the international academic journal 
 ----
 ## Humidity trends will result in widespread heat stress in China
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/r2.jpg){: style="width: 420px; float: left; border: 10px;padding:15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/r2.png){: style="width: 420px; float: left; border: 10px;padding:15px"}
 
 <br />
 
