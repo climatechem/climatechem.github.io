@@ -54,38 +54,15 @@ If you leave a comment, the comment and its metadata are retained indefinitely. 
 
 For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-<br />
+### What rights you have over your data
 
-This course aims to provide a working knowledge of air quality issues. It will emphasize on a multidisciplinary approach to investigating the emission sources, atmospheric chemistry and removal processes, meteorological phenomena and their impact on pollution at local to global scales. Regional and global issues such as acid rain, ozone depletion and air quality connections to climate change will also be discussed. 
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-Key topics include: chemistry concepts; atmospheric composition; meteorology and transport; radiation and greenhouse effects; stratospheric chemsitry; tropospheric chemistry; ozone; aerosols and clouds; biogeochemical cycles; air pollution regulations and health effects.
+### Where we send your data
 
+Visitor comments may be checked through an automated spam detection service.
 
 <br/>
-
+<br/>
 
 ----
-
-### SEE4219 Air Quality Modeling
-(undergraduate elective, fall odd years)
-
-![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see4219.jpg){: style="width: 425px; float: left; border: 5px;padding:10px"}
-
-<br />
-
-Air quality models have become fundamental tools to analyze observations, understand relationships, test hypotheses, and project future evolution for air pollution. This course is aimed to provide insight into the methods used in air quality modelling. It will focus on both theory and practice, from the fundamental principles behind models to their applications in interpreting air pollution. 
-
-Key topics include: steady-state dispersion models; Lagrangian transport models; indoor air quality models; chemical transport models; model application and evaluation.
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-----
-
-Also contributes to the air pollution and atmospheric change sections in SEE2201 Fundamentals of Environmental Engineering (undergraduate core, spring).
-<br/>
-<br/>
