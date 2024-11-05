@@ -38,18 +38,42 @@
     display: "Advances in Atmospheric Sciences 40 (8), 1339-1361"
   highlight: 0
 
-- title: "Land use and land cover dynamics: Implications for thermal stress and energy demands"
+- title: "Mixing-layer-height-referenced ozone vertical distribution in the lower troposphere of Chinese megacities: Stratification, classification, meteorological, and photochemical mechanisms"
   authors: 
-    OE Adeyeri, W Zhou, P Laux, X Wang, D Dieng, LAE Widana, M Usman
+    Z Liao, M Gao, J Zhang, J Sun, J Quan, X Jia, Y Pan, S Fan
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S1364032123001302?via%3Dihub
-    display: "Renewable and Sustainable Energy Reviews, 179, 113274."
+    url: https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1011/
+    display: "EGUsphere 2023, 1-21"
   highlight: 0
 
-- title: "Characteristics and Formation of Two Leading Marine Heatwave Modes in the North Indian Ocean during Summer and Their Implications for Local Precipitation"
+- title: "A synchronized estimation of hourly surface concentrations of six criteria air pollutants with GEMS data"
   authors: 
-    JWND Sandaruwan, W Zhou, PKY Cheung, Y Du, X Wang
+    Q Yang, J Kim, Y Cho, WJ Lee, DW Lee, Q Yuan, F Wang, C Zhou, ...
   link:
-    url: https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0574.1/JCLI-D-22-0574.1.xml
-    display: "Journal of Climate, doi: 10.1175/JCLI-D-22-0574.1"
+    url: https://www.nature.com/articles/s41612-023-00407-1
+    display: "npj Climate and Atmospheric Science 6 (1), 94"
+  highlight: 0
+
+- title: "Large-scale climate patterns offer preseasonal hints on the co-occurrence of heat wave and O3 pollution in China"
+  authors: 
+    M Gao, F Wang, Y Ding, Z Wu, Y Xu, X Lu, Z Wang, GR Carmichael, ...
+  link:
+    url: https://www.pnas.org/doi/abs/10.1073/pnas.2218274120
+    display: "Proceedings of the National Academy of Sciences 120 (26), e2218274120"
+  highlight: 0
+
+- title: "Aggravated air pollution and health burden due to traffic congestion in urban China"
+  authors: 
+    P Wang, R Zhang, S Sun, M Gao, B Zheng, D Zhang, Y Zhang, ...
+  link:
+    url: https://acp.copernicus.org/articles/23/2983/2023/acp-23-2983-2023.html
+    display: "Atmospheric chemistry and physics 23 (5), 2983-2996"
+  highlight: 0
+
+- title: "A new perspective to satellite-based retrieval of ground-level air pollution: Simultaneous estimation of multiple pollutants based on physics-informed multi-task learning"
+  authors: 
+    Q Yang, Q Yuan, M Gao, T Li
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0048969722066414
+    display: "Science of The Total Environment 857, 159542"
   highlight: 0
