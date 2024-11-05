@@ -15,15 +15,12 @@ Our website address is: [Air Quality and Atmospheric Chemistry Modeling](https:/
 ----
 
 ## What personal data we collect and why we collect it
-(undergraduate core, spring)
 
-![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see4204.jpg){: style="width: 410px; float: left; border: 5px;padding:10px"}
+### Comments
 
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. 
 
-
-This course aims to instruct students to learn how environmental phenomena works as systems and how to use models to better understand the environmental system and to solve environmental problems. Students will learn basic concepts and strategies for building simple models, designing model experiments, and evaluating model results. Various environmental applications using modelling from a variety of disciplines (e.g. air and water) will also be introduced. 
-
-The course has both lectures and tutorials at computing lab. Major topics include: basic dynamics and kinetics; box model; trajectory model; numerical approaches; modeling atmospheric system; modeling surface water system; model uncertainty and evaluation; model experiment design.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available [here](https://automattic.com/privacy/). After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
 <br/>
 <br/>
