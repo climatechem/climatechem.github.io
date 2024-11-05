@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Privacy Policy
 layout: research
 excerpt: Teaching
 sitemap: false
