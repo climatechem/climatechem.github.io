@@ -1,13 +1,13 @@
 - title: "XR-based interactive visualization platform for real-time exploring dynamic earth science data"
   authors: 
-    X Zhang, H Yang, C Liu, Q Tong, A Xiu, L Kong, M Dan, C Gao, M Gao
+    X Zhang, H Yang, C Liu, Q Tong, A Xiu, L Kong, M Dan, C Gao, M Gao, ...
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S1364815224002548
     display: "Environmental Modelling & Software 183, 106193"
   highlight: 0
 - title: "Long-term exposure to ozone and sleep disorders in children: A multicity study in China"
   authors: 
-    ZH Gui, J Heinrich, L Morawska, TY Zhao, SHL Yim, XQ Lao, M Gao
+    ZH Gui, J Heinrich, L Morawska, TY Zhao, SHL Yim, XQ Lao, M Gao, ...
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0013935124014580
     display: "Environmental Research 260, 119553"
@@ -56,15 +56,22 @@
   highlight: 0
 - title: "Warming climate is helping human beings run faster, jump higher and throw farther through less dense air"
   authors: 
-    S Wang, T Chen, JJ Luo, M Gao, H Zuo, F Ling, J Hu, C Yuan
+    S Wang, T Chen, JJ Luo, M Gao, H Zuo, F Ling, J Hu, C Yuan, Y Yang, ...
   link:
     url: https://www.nature.com/articles/s41612-024-00635-z
     display: "npj Climate and Atmospheric Science 7 (1), 94"
   highlight: 0
 - title: "Arctic amplification–induced decline in West and South Asia dust warrants stronger antidesertification toward carbon neutrality"
   authors: 
-    F Wang, Y Xu, PN Patel, R Gautam, M Gao, C Liu, Y Ding
+    F Wang, Y Xu, PN Patel, R Gautam, M Gao, C Liu, Y Ding, H Chen, ...
   link:
     url: https://www.pnas.org/doi/abs/10.1073/pnas.2317444121
     display: "Proceedings of the National Academy of Sciences 121 (14), e2317444121"
+  highlight: 0
+- title: "Air quality improvements can strengthen China’s food security"
+  authors: 
+    X Liu, B Chu, R Tang, Y Liu, B Qiu, M Gao, X Li, J Xiao, HZ Sun, X Huang, ...
+  link:
+    url: https://www.nature.com/articles/s43016-023-00882-y
+    display: "Nature Food 5 (2), 158-170"
   highlight: 0
