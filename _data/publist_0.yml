@@ -1,52 +1,51 @@
-- title: "Exploring the observational constraints on the simulation of brown carbon"
+- title: "The impact of power generation emissions on ambient PM2. 5 pollution and human health in China and India"
   image: dummy.png
   description: ""
   authors: 
-    X Wang, CL Heald, J Liu, RJ Weber, P Campuzano-Jost, JL Jimenez, JP Schwarz, AE Perring      
+    M Gao, G Beig, S Song, H Zhang, J Hu, Q Ying, F Liang, Y Liu, H Wang, ...      
   link:
-    url: https://www.atmos-chem-phys.net/18/635/2018/
-    display: Atmospheric Chemistry and Physics 18 (18), 635–653
+    url: https://www.sciencedirect.com/science/article/pii/S0160412018313369
+    display: Environment international 121, 250-259
   highlight: 0
 
-- title: "Deriving brown carbon from multiwavelength absorption measurements: method and application to AERONET and Aethalometer observations"
+- title: "Fine-particle pH for Beijing winter haze as inferred from different thermodynamic equilibrium models"
   image: dummy.png
   description: ""
   authors:
-    X Wang, CL Heald, AJ Sedlacek, SS de Sá, ST Martin, ML Alexander, TB Watson, AC Aiken, SR Springston, P Artaxo
+    S Song, M Gao, W Xu, J Shao, G Shi, S Wang, Y Wang, Y Sun, ...
   link:
-    url: https://www.atmos-chem-phys.net/16/12733/2016/
-    display: Atmospheric Chemistry and Physics 16 (19), 12733-12752
+    url: https://acp.copernicus.org/preprints/acp-2018-6/
+    display: Atmospheric Chemistry and Physics 18 (10), 7423-7438
   highlight: 0
 
 
-- title: "Exploiting simultaneous observational constraints on mass and absorption to estimate the global direct radiative forcing of black carbon and brown carbon"
+- title: "Distinguishing the roles of meteorology, emission control measures, regional transport, and co-benefits of reduced aerosol feedbacks in “APEC Blue”"
   image: dummy.png
   description: ""
   authors:
-    X Wang, CL Heald, DA Ridley, JP Schwarz, JR Spackman, AE Perring, H Coe, D Liu, AD Clarke   
+    M Gao, Z Liu, Y Wang, X Lu, D Ji, L Wang, M Li, Z Wang, Q Zhang, ...   
   link:
-    url: https://www.atmos-chem-phys.net/14/10989/2014/
-    display: Atmospheric Chemistry and Physics 14 (20), 10989-11010
+    url: https://www.sciencedirect.com/science/article/pii/S1352231017305678
+    display: Atmospheric Environment 167, 476-486
   highlight: 0
-  news1: <a style="color:#FF0000" href="https://www.nature.com/articles/515011d"> Featured in Nature Research Highlights</a>
 
-- title: "Top‐down estimate of China's black carbon emissions using surface observations: Sensitivity to observation representativeness and transport model error"
+- title: "Reactive nitrogen chemistry in aerosol water as a source of sulfate during haze events in China"
   image: dummy.png
   description: ""
   authors: 
-    X Wang, Y Wang, J Hao, Y Kondo, M Irwin, JW Munger, Y Zhao      
+    Y Cheng, G Zheng, C Wei, Q Mu, B Zheng, Z Wang, M Gao, Q Zhang, ...      
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jgrd.50397
-    display: Journal of Geophysical Research, Atmospheres 118 (11), 5781-5795
+    url: https://www.science.org/doi/abs/10.1126/sciadv.1601530
+    display: Science advances 2 (12), e1601530
   highlight: 0
 
-- title: "Black carbon and its correlation with trace gases at a rural site in Beijing: Top‐down constraints from ambient measurements on bottom‐up emissions"
+- title: "Modeling study of the 2010 regional haze event in the North China Plain"
   image: dummy.png
   description: ""
   authors:
-    Y Wang, X Wang, Y Kondo, M Kajino, JW Munger, J Hao  
+    M Gao, GR Carmichael, Y Wang, PE Saide, M Yu, J Xin, Z Liu, Z Wang  
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JD016575
-    display: Journal of Geophysical Research, Atmospheres 116 (D24)
+    url: https://acp.copernicus.org/articles/16/1673/2016/
+    display: Atmospheric Chemistry and Physics 16 (3), 1673-1691
   highlight: 0
 
