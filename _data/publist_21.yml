@@ -1,74 +1,90 @@
-- title: "Relating geostationary satellite measurements of aerosol optical depth (AOD) over East Asia to fine particulate matter (PM2.5): insights from the KORUS-AQ aircraft campaign and GEOS-Chem model simulations"
+- title: "Unprecedented decline in summertime surface ozone over eastern China in 2020 comparably attributable to anthropogenic emission reductions and meteorology"
   authors: 
-    S-X Zhai, DJ. Jacob, JF. Brewer, K Li, JM Moch, J Kim, S Lee, H Lim, HC Lee, SK Kuk, RJ. Park, JI Jeong, X Wang, Pi Liu, G Luo, F Yu, J Meng, RV Martin, KR Travis, JW Hair, BE Anderson, JE Dibb, JL Jimenez, P Campuzano-Jost, BA Nault, J-H Woo, Y Kim, Q Zhang, H Liao
+    H Yin, X Lu, Y Sun, K Li, M Gao, B Zheng, C Liu
   link:
-    url: https://acp.copernicus.org/articles/21/16775/2021/
-    display: "Atmospheric Chemistry and Physics, 21, 16775–16791"
+    url: https://iopscience.iop.org/article/10.1088/1748-9326/ac3e22/meta
+    display: "Environmental Research Letters 16 (12), 124069"
   highlight: 0
 
-- title: "Global Impact of Lightning-produced Oxidants"
+- title: "Opposite impact of emission reduction during the COVID-19 lockdown period on the surface concentrations of PM2. 5 and O3 in Wuhan, China"
   authors: 
-    J Mao, T Zhao, CA Keller, X Wang, PJ McFarland, JM Jenkins, WH Brune
+    H Yin, C Liu, Q Hu, T Liu, S Wang, M Gao, S Xu, C Zhang, W Su
   submit: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095740
-    display: Geophyscial Research Letters, 48, 21, e2021GL095740
+    url: https://www.sciencedirect.com/science/article/pii/S0269749121014810
+    display: Environmental Pollution 289, 117899
   highlight: 0
 
-- title: "Understanding Sources of Atmospheric Hydrogen Chloride in Coastal Spring and Continental Winter"
+- title: "Ultrafine particles, blood pressure and adult hypertension: a population-based survey in Northeast China"
   authors: 
-    AA Angelucci, TC Furlani, X Wang, DJ Jacob, TC VandenBoer, CJ Young
+    LZ Lin, M Gao, X Xiao, LD Knibbs, L Morawska, SC Dharmage, J Heinrich, ...
   submit: 
   link:
-    url: https://pubs.acs.org/doi/10.1021/acsearthspacechem.1c00193
-    display: ACS Earth Space Chem, 5, 9, 2507–2516
+    url: https://iopscience.iop.org/article/10.1088/1748-9326/ac1c28/meta
+    display: Environmental Research Letters 16 (9), 094041
   highlight: 0
 
-- title: "Improved Mechanistic Model of the Atmospheric Redox Chemistry of Mercury"
+- title: "Street view greenness is associated with lower risk of obesity in adults: findings from the 33 Chinese community health study"
   authors: 
-    V Shah, DJ Jacob, CP Thackray, X Wang, EM Sunderland, TS Dibble, A Saiz-Lopez, I Černušák, V Kellö, PJ. Castro, R Wu, C Wang  
+    X Xiao, R Wang, LD Knibbs, B Jalaludin, J Heinrich, I Markevych, M Gao, ...  
   submit: 
   link:
-    url: https://pubs.acs.org/doi/10.1021/acs.est.1c03160
-    display: Environmental Science and Technology, 55, 21, 14445–14456
+    url: https://www.sciencedirect.com/science/article/pii/S0013935121007283
+    display: Environmental Research 200, 111434
   highlight: 0
 
-- title: "Anthropogenic Impacts on Tropospheric Reactive Chlorine since the Preindustrial"
+- title: "The underappreciated role of agricultural soil nitrogen oxide emissions in ozone pollution regulation in North China"
   authors: 
-    S-T Zhai, X Wang, JR McConnell, L Geng, J Cole-Di, M Sigl, N Chelman, T Sherwen, R Pound, K Fujita, SHattori, JM Moch, L Zhu, MJ Evans, M Legrand, P Liu, D Pasteris, YC Chan, LT Murray, B Alexander
+    X Lu, X Ye, M Zhou, Y Zhao, H Weng, H Kong, K Li, M Gao, B Zheng, J Lin, ...
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093808
-    display: "Geophyscial Research Letters, 48, 14, e2021GL093808"
+    url: https://www.nature.com/articles/s41467-021-25147-9
+    display: "Nature Communications 12 (1), 5021"
   highlight: 0
 
-- title: "Global tropospheric halogen (Cl, Br, I) chemistry and its impact on oxidants"
+- title: "Maternal exposure to ambient air pollution and congenital heart defects in China"
   authors: 
-    X Wang, DJ Jacob, W Downs, S-T Zhai, L Zhu, V Shah, CD Holmes, T Sherwen, B Alexander, MJ Evans, SD Eastham, JA Neuman, P Veres, TK Koenig, R Volkamer, GL Huey, TJ Bannan, CJ Percival, BH Lee, JA Thornton 
+    BY Yang, Y Qu, Y Guo, I Markevych, J Heinrich, MS Bloom, Z Bai, ... 
   link:
-    url: https://acp.copernicus.org/articles/21/13973/2021/
-    display: "Atmospheric Chemistry and Physics, 21, 13973–13996"
+    url: https://www.sciencedirect.com/science/article/pii/S0160412021001732
+    display: "Environment international 153, 106548"
   highlight: 0
 
-- title: "Heterogeneous Nitrate Production Mechanisms in Intense Haze Events in the North China Plain"
+- title: "Large-scale synoptic drivers of co-occurring summertime ozone and PM2.5 pollution in eastern China"
   authors: 
-    YC Chan, MJ Evans, P He, CD Holmes, L Jaeglé, P Kasibhatla, XY Liu, T Sherwen, JA Thornton, X Wang, Z Xie, S-T Zhai, B Alexander   
+    L Zong, Y Yang, M Gao, H Wang, P Wang, H Zhang, L Wang, G Ning, ...   
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD034688
-    display: "Journal of Geophysical Research: Atmospheres, 126, e2021JD034688"
+    url: https://acp.copernicus.org/articles/21/9105/2021/
+    display: "Atmospheric Chemistry and Physics 21 (11), 9105-9124"
   highlight: 0
   
-- title: "Control of particulate nitrate air pollution in China"
+- title: "Air quality and health benefits from ultra-low emission control policy indicated by continuous emission monitoring: a case study in the Yangtze River Delta region, China"
   authors: 
-    S-X Zhai, DJ Jacob, X Wang, Z Liu, T Wen, V Shah, K Li, JM Moch, KH. Bates, S Song, L Shen, Y Zhang, G Luo, F Yu, Y Sun, L Wang, M Qi, J Tao, K Gui, H Xu, Q Zhang, T Zhao, Y Wang, HC Lee, H Choi, H Liao   
+    Y Zhang, Y Zhao, M Gao, X Bo, CP Nielsen   
   link:
-    url: https://doi.org/10.1038/s41561-021-00726-z
-    display: Nature Geoscience, 14, 389–395.
+    url: https://acp.copernicus.org/articles/21/6411/2021/acp-21-6411-2021.html
+    display: Atmospheric Chemistry and Physics 21 (8), 6411-6430
   highlight: 0
 
-- title: "Enhanced Aerosol Particle Growth Sustained by High Continental Chlorine Emission in India"
+- title: "Stereoscopic monitoring: a promising strategy to advance diagnostic and prediction of air pollution"
   authors: 
-    SS Gunthel, P Liu, U Panda, SS Raj, A Sharma, E Darbyshire, E Reyes-Villegas, J Allan, Y Chen, X Wang, S Song, ML Pöhlker, L Shi, Y Wang, SM Kommula, T Liu, R Ravikrishna, Gordon McFiggans, LJ Mickley, Scot T. Martin, Ulrich Pöschl, MO Andreae, H Coe 
+    C Liu, M Gao, Q Hu, GP Brasseur, GR Carmichael 
   link: 
-    url: https://www.nature.com/articles/s41561-020-00677-x
-    display: Nature Geoscience, 14, 77–84.
+    url: https://journals.ametsoc.org/view/journals/bams/102/4/BAMS-D-20-0217.1.xml
+    display: Bulletin of the American Meteorological Society 102 (4), E730-E737
+  highlight: 0
+  
+- title: "Rapid increase in mortality attributable to PM2. 5 exposure in India over 1998–2015"
+  authors: 
+    B Jia, M Gao, X Zhang, X Xiao, S Zhang, KKL Yung 
+  link: 
+    url: https://www.sciencedirect.com/science/article/pii/S0045653520329131
+    display: Chemosphere 269, 128715
+  highlight: 0
+
+- title: "Tropospheric ozone variability over Hong Kong based on recent 20 years (2000–2019) ozonesonde observation"
+  authors: 
+    Z Liao, Z Ling, M Gao, J Sun, W Zhao, P Ma, J Quan, S Fan 
+  link: 
+    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD033054
+    display: Journal of Geophysical Research: Atmospheres 126 (3), e2020JD033054
   highlight: 0
