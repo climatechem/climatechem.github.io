@@ -1,12 +1,12 @@
 ---
 title: Privacy Policy
-layout: research
-excerpt: Teaching
+layout: textlay
+excerpt: Privacy Policy
 sitemap: false
-permalink: "/teaching/"
+permalink: "/Privacy_Policy/"
 ---
 
-# Teaching
+# Privacy Policy
 
 Course catalogue and syllabus for School of Energy and Environment at City University of Hong Kong  can be found [here](https://www.cityu.edu.hk/see/programmes).
 
