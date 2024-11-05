@@ -1,25 +1,25 @@
-- title: "The trend and spatial spread of multisectoral climate extremes in CMIP6 models"
+- title: "Global tropospheric ozone trends, attributions, and radiative impacts in 1995–2017: an integrated analysis using aircraft (IAGOS) observations, ozonesonde, and multi-decadal chemical model simulations"
   authors: 
-    OE Adeyeri, W Zhou, X Wang, R Zhang, P Laux, KA Ishola, M Usman 
+    H Wang, X Lu, DJ Jacob, OR Cooper, KL Chang, K Li, M Gao, Y Liu, ... 
   link:
-    url: https://www.nature.com/articles/s41598-022-25265-4
-    display: "Scientific Reports, 12, 21000"
+    url: https://acp.copernicus.org/articles/22/13753/2022/
+    display: "Atmospheric Chemistry and Physics 22 (20), 13753-13782"
   highlight: 0
 
-- title: "Comparison of model and ground observations finds snowpack and blowing snow aerosols both contribute to Arctic tropospheric reactive bromine"
+- title: "Circulation-regulated impacts of aerosol pollution on urban heat island in Beijing"
   authors: 
-    WF Swanson, CD Holmes, WR Simpson, K Confer, L Marelle, JL Thomas, L Jaeglé, B Alexander, S Zhai, Q Chen, X Wang, T Sherwen
+    F Wang, GR Carmichael, J Wang, B Chen, B Huang, Y Li, Y Yang, M Gao
   link:
-    url: https://acp.copernicus.org/articles/22/14467/2022/
-    display: "Atmospheric Chemistry and Physics, 22, 14467–14488"
+    url: https://acp.copernicus.org/articles/22/13341/2022/acp-22-13341-2022.html
+    display: "Atmospheric Chemistry and Physics 22 (20), 13341-13353"
   highlight: 0
 
-- title: "Comprehensive characterization of particulate intermediate-volatility and semi-volatile organic compounds (I/SVOCs) from heavy-duty diesel vehicles using two-dimensional gas chromatography time-of-flight mass spectrometry"
+- title: "Observed sensitivities of PM2. 5 and O3 extremes to meteorological conditions in China and implications for the future"
   authors: 
-    X He, X Zheng, Y You, S Zhang, X Wang, T Chen, X Zhang, G Huang, Y Cao, L He, X Cao, Y Cheng, S Wang, Y Wu
+   X Zhang, X Xiao, F Wang, G Brasseur, S Chen, J Wang, M Gao
   link:
-    url: https://acp.copernicus.org/articles/22/13935/2022/
-    display: "Atmospheric Chemistry and Physics, 22, 13935–13947"
+    url: https://www.sciencedirect.com/science/article/pii/S0160412022003555
+    display: "Environment International 168, 107428"
   highlight: 0
 
 - title: "Limitations in representation of physical processes prevent successful simulation of PM2.5 during KORUS-AQ"
