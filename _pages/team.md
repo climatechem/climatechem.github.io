@@ -25,37 +25,35 @@ permalink: "/team/"
 	<div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/a1.jpg" alt="Slide 0" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<p>2024 Group Photo</p>
-    		<p>From left to right: </p>
+    		<p>Group Photo</p>
   	    </div>  
         </div> 
 
 	<div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/a2.jpg" alt="Slide 1" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<p>Group celebrating the Year of the Loong!</p>
+    		<p>Group Photo</p>
   	    </div>  
         </div> 
 	
  	<div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/a3.jpg" alt="Slide 2" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<p>Group celebrating the Year of the Rabbit!</p>
+    		<p>Group Photo</p>
   	    </div>  
         </div>   
 	  
 	<div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/a4.jpg" alt="Slide 3" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<p>2022 Group Photo</p>
+    		<p>Group Photo</p>
   	    </div>  
         </div> 
 	    
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/a5.jpg" alt="Slide 4" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<p>2021 Group Photo</p>
-    		<p>From left to right: </p>
+    		<p>Group Photo</p>
   	    </div>  
         </div>
 	
