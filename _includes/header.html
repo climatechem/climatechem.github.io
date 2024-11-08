@@ -1,14 +1,21 @@
 <style>
 .navbar-nav > li > a:hover {
-    background-color: rgba(0,0,0,0.5) !important; /* 半透明黑色背景 */
-    color: #fff !important; /* 保持文字为白色 */
-    transition: background-color 0.3s ease; /* 添加过渡效果 */
+    background-color: rgba(0,0,0,0.5) !important;
+    color: #fff !important;
+    transition: background-color 0.3s ease;
+}
+
+.logo-img {
+    filter: drop-shadow(0 0 3px white) drop-shadow(0 0 5px white);  /* 白色轮廓 */
+    width: 150px;
 }
 </style>
 
 <div class="navbar navbar-default navbar-static-top" role="navigation" style="background: url('{{ site.url }}{{ site.baseurl }}/images/logopic/your_image.jpg') no-repeat center center; background-size: cover;">
   <div class="container-fluid">
-     <a href='https://www.hkbu.edu.hk/' class="navbar-right"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo.png" style="width: 150px"></a>
+     <a href='https://www.hkbu.edu.hk/' class="navbar-right">
+       <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo.png" class="logo-img">
+     </a>
 
       <h2>
         <p navbar-brand class="text-danger text-left" style="color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
