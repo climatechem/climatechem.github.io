@@ -6,10 +6,10 @@ sitemap: false
 permalink: "/"
 ---
 
-<div style="display: flex; gap: 2em;">
-<div style="flex: 2;">
-
 We are the Chemistry-Climate Modeling Group at Hong Kong Baptist University. Our research centers on interactive processes of compound chemical and climate extremes, aiming to offer actionable insights into air pollution and climate change mitigation. 
+
+<div style="display: flex; gap: 2em; margin-top: 2em;">
+<div style="flex: 2;">
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
