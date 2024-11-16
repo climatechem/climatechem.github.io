@@ -22,10 +22,9 @@ Climate variability can significantly affect atmospheric composition in several 
 The research findings have been published in the international academic journal [Proceedings of the National Academy of Sciences (PNAS)](https://research.hkbu.edu.hk/news/hkbu-led-research-identifies-arctic-amplification-as-cause-for-dust-reduction-and-suggests-sustained-anti-desertification-measures). 
 
 <br/>
+<br/>
 
 Climate variability can significantly affect atmospheric composition in several ways, and understanding these interactions is crucial for making accurate seasonal predictions. Our study has elucidated the dominant climate patterns driving the interannual variability of wintertime aerosol pollution over northern India, co-occurring heat and ozone extremes over China, summertime ozone in May and wintertime haze in Beijing. We are working with climate scientists to explore inter-annual variability of compound extremes in Asia.
-
-<br/>
 
 ----
 ## Aerosol-weather-climate interactions
