@@ -2,8 +2,9 @@
   photo: gaomeng.png
   info: 'Professor'
   email: mmgao2@hkbu.edu.hk
-  number_educ: 2
+  number_educ: 3
   education1: 'Postdoc, Harvard University, 2016-2019'
-  education2: 'PhD, University of Iowa, 2012-2015'
-  office: AAB 1225
+  education2: 'PhD, University of Iowa, 2015'
+  education3: 'BSc, Nanjing University of Information Science and Technology, 2012'
+  office: AAB 1226
   tel: (+852) 3411-7190
