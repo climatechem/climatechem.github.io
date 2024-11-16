@@ -6,7 +6,7 @@ sitemap: false
 permalink: "/"
 ---
 
-We are the Air Quality and Atmospheric Chemistry Modeling Group at Hong Kong Baptist University. Our researches focus on Chemistry-Climate Interactions, Environmental Health, Climate Change Mitigation. The group uses global and regional models with observations to study the formation mechanisms and long-term trends of air pollution, and its interactions with weather/climate systems. 
+We are the Chemistry-Climate Modeling Group at Hong Kong Baptist University. Our research centers on interactive processes of compound chemical and climate extremes, aiming to offer actionable insights into air pollution and climate change mitigation. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -23,19 +23,19 @@ We are the Air Quality and Atmospheric Chemistry Modeling Group at Hong Kong Bap
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/6.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/7.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/3.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/8.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/4.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/9.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/5.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/10.png" alt="Slide 5" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
