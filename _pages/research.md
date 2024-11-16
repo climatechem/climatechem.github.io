@@ -8,32 +8,33 @@ permalink: "/research/"
 
 # Research
 
-Our overarching goal is to investigate climate change mechanisms and their impacts on environmental systems and human health. To do so, we combine climate model simulations with comprehensive observational data analysis (including meteorological data, aerosol measurements, and satellite observations) to study Arctic amplification, dust aerosol variations, and humidity-temperature interactions in regional and global contexts.
-
-Here are the main research themes in our group:
+Below are the topics we have been working on:
 
 
-## Arctic amplification as cause for dust reduction
+## How climate variability affects atmospheric composition and implications for seasonal predictions 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/r1.png){: style="width: 480px; float: right; border: 10px;padding:15px"}
 
 <br />
 
-We have discovered that intensified Arctic amplification associated with global warming, which led to changes in atmospheric circulation, is the underlying cause of the decline in dust levels across West and South Asia over the past two decades. However, this phenomenon is a reversible one, and with the ongoing worldwide efforts to fight against global warming, dust levels in the region may rise again in future, suggesting that sustained anti-desertification measures to mitigate dust emission are warranted in the long run.
+Climate variability can significantly affect atmospheric composition in several ways, and understanding these interactions is crucial for making accurate seasonal predictions. Our study has elucidated the dominant climate patterns driving the interannual variability of wintertime aerosol pollution over northern India, co-occurring heat and ozone extremes over China, summertime ozone in May and wintertime haze in Beijing. We are working with climate scientists to explore inter-annual variability of compound extremes in Asia.
 
 The research findings have been published in the international academic journal [Proceedings of the National Academy of Sciences (PNAS)](https://research.hkbu.edu.hk/news/hkbu-led-research-identifies-arctic-amplification-as-cause-for-dust-reduction-and-suggests-sustained-anti-desertification-measures). 
 
 <br/>
+
+Climate variability can significantly affect atmospheric composition in several ways, and understanding these interactions is crucial for making accurate seasonal predictions. Our study has elucidated the dominant climate patterns driving the interannual variability of wintertime aerosol pollution over northern India, co-occurring heat and ozone extremes over China, summertime ozone in May and wintertime haze in Beijing. We are working with climate scientists to explore inter-annual variability of compound extremes in Asia.
+
 <br/>
 
 ----
-## Humidity trends will result in widespread heat stress in China
+## Aerosol-weather-climate interactions
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/r2.png){: style="width: 420px; float: left; border: 10px;padding:15px"}
 
 <br />
 
-A study conducted by a research team led by Hong Kong Baptist University (HKBU) has discovered that there is a trend of increasing humidity in the northern part of China which is not observed in the south. This phenomenon will ultimately become a prominent factor in determining the occurrence of extreme hot and humid weather, and lead to widespread heat stress across the entire eastern part of China, the most populous region of the country, by the end of this century. 
+Aerosols can either cool the climate (through scattering) or warm it (through absorption), depending on their type and concentration. Incorporating aerosols into weather and climate models is essential for accurate weather and climate projections. Models that account for aerosol interactions can provide better forecasts of temperature, precipitation, and extreme weather events. We are trying to better represent aerosol properties, particularly light-absorbing particles (e.g., dust, black carbon and brown carbon), in weather and climate models, and to explore the interactions across different scales.  
 
 The research findings have been published in the international academic journal [Nature Communications](https://research.hkbu.edu.hk/news/hkbu-led-research-predicts-humidity-trends-will-result-in-widespread-heat-stress-in-china).  
 
