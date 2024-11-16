@@ -44,11 +44,7 @@ Gao, M. *, Liu, Z., Zheng, B., Ji, D., Sherman, P., Song, S., Xin, J., Liu, C., 
 Aerosols can either cool the climate (through scattering) or warm it (through absorption), depending on their type and concentration. Incorporating aerosols into weather and climate models is essential for accurate weather and climate projections. Models that account for aerosol interactions can provide better forecasts of temperature, precipitation, and extreme weather events. We are trying to better represent aerosol properties, particularly light-absorbing particles (e.g., dust, black carbon and brown carbon), in weather and climate models, and to explore the interactions across different scales.  
 
 
-<br />
-
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/r3.png){: style="width: 420px; float: right; border: 10px;padding:10px"}
-
-<br />
 
 ## Reference
 
