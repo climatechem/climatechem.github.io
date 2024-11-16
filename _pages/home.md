@@ -53,7 +53,7 @@ We are the Chemistry-Climate Modeling Group at Hong Kong Baptist University. Our
 
 <div style="flex: 1.0; padding: 1em; background: #f5f5f5; border-radius: 8px; max-width: 250px; height: fit-content;">
 
-### News
+<h3 style="text-align: center; margin-top: 0; padding-bottom: 0.5em; border-bottom: 1px solid #ddd;">News & Achievements</h3>
 
 * [Prof. Gao receives 2024 Rising Stars in Environmental Research](https://pubs.acs.org/journal/aeacc4)
 
