@@ -45,11 +45,9 @@ Aerosols can either cool the climate (through scattering) or warm it (through ab
 
 
 <br />
-<br />
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/r3.png){: style="width: 420px; float: right; border: 10px;padding:10px"}
 
-<br />
 <br />
 
 ## Reference
