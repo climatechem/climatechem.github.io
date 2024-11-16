@@ -22,8 +22,7 @@ Climate variability can significantly affect atmospheric composition in several 
 
  
 
-<br/>
-<br/>
+<br />
 
 ## Reference
 
@@ -36,7 +35,7 @@ Gao, M. *, Liu, Z., Zheng, B., Ji, D., Sherman, P., Song, S., Xin, J., Liu, C., 
 ----
 ## Aerosol-weather-climate interactions
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/r2.png){: style="width: 420px; float: left; border: 10px;padding:10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/r2.png){: style="width: 620px; float: left; border: 10px;padding:10px"}
 
 <br />
 <br />
