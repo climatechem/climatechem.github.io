@@ -35,7 +35,7 @@ Gao, M. *, Liu, Z., Zheng, B., Ji, D., Sherman, P., Song, S., Xin, J., Liu, C., 
 ----
 ## Aerosol-weather-climate interactions
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/r2.png){: style="width: 620px; float: left; border: 10px;padding:10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/r2.png){: style="width: 420px; float: left; border: 10px;padding:10px"}
 
 <br />
 <br />
@@ -45,6 +45,9 @@ Aerosols can either cool the climate (through scattering) or warm it (through ab
 
 <br />
 <br />
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/r3.png){: style="width: 420px; float: right; border: 10px;padding:10px"}
+
 <br />
 <br />
 
@@ -55,9 +58,13 @@ Aerosols can either cool the climate (through scattering) or warm it (through ab
 ## Reference
 
 Wang, F., Xu, Y., Patel, P., Gautam, R., Gao, M.*, Liu, C. *, Ding, Y., Chen, H., Yang, Y., Zhou, Y., Carmichael, G. R. and McElroy, M. B.: Arctic amplification induced decline in West and South Asia dust warrants stronger anti-desertification towards carbon neutrality. Proc. Natl. Acad. Sci. U. S. A., 2024, 121(14): e2317444121. [Link](https://www.pnas.org/doi/abs/10.1073/pnas.2317444121).
+
 Wang, F., Lu, Z., Lin, G., Carmichael, G.R. and Gao, M. *: Brown carbon in East Asia: seasonality, sources and influences on regional climate and air quality, ACS Environ. Au, 2024. [Link](https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080#).
+
 Gao, M. *, Yang, Y., Liao, H., Zhu, B., Zhang, Y., Liu, Z., Lu, X., Wang, C., Zhou, Q., Wang, Y., Zhang, Q., Carmichael, G. R., and Hu, J. *: Reduced light absorption of black carbon (BC) and its influence on BC-boundary-layer interactions during APEC Blue. Atmos. Chem. Phys., 2021, 21, 11405–11421. [Link](https://acp.copernicus.org/articles/21/11405/2021/).
+
 Gao, M. *, Han, Z. *, Liu, Z., Li, M., Xin, J., Tao, Z., Li, J., Kang, J.E., Huang, K., Dong, X. and Zhuang, B., Li, S., Ge, B., Wu, Q., Cheng, Y., Wang, Y., Lee, H.-J., Kim, C.-H., Fu, J. S., Wang, T., Chin, M., Woo, J.-H., Zhang, Q., Wang, Z. and Carmichael, G. R.*: Air quality and climate change, topic 3 of the Model Inter-Comparison Study for Asia Phase III (MICS-Asia III) part 1: overview and model evaluation. Atmos. Chem. Phys., 2018,18, 4859-4884. [Link](https://acp.copernicus.org/articles/18/4859/2018/).
+
 Gao, M. *, Han, Z. *, Tao, Z., Li, J., Kang, J.-E., Huang, K., Dong, X., Zhuang, B., Li, S., Ge, B., Wu, Q., Lee, H.-J., Kim, C.-H., Fu, J. S., Wang, T., Chin, M., Li, M., Woo, J.-H., Zhang, Q., Cheng, Y., Wang, Z., and Carmichael, G. R. *: Air quality and climate change, topic 3 of the Model Inter-Comparison Study for Asia Phase III (MICS-Asia III), part II: aerosol radiative effects and aerosol feedbacks. Atmos. Chem. Phys., 2020, 20, 1147–1161. [Link](https://acp.copernicus.org/articles/20/1147/2020/acp-20-1147-2020.html).
 
 ----
