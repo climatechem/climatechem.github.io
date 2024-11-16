@@ -9,7 +9,7 @@ permalink: "/"
 We are the Chemistry-Climate Modeling Group at Hong Kong Baptist University. Our research centers on interactive processes of compound chemical and climate extremes, aiming to offer actionable insights into air pollution and climate change mitigation. 
 
 <div style="display: flex; gap: 2em; margin-top: 2em;">
-<div style="flex: 2;">
+<div style="flex: 3;">
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -51,11 +51,11 @@ We are the Chemistry-Climate Modeling Group at Hong Kong Baptist University. Our
 
 </div>
 
-<div style="flex: 1; padding: 1em; background: #f5f5f5; border-radius: 8px; max-width: 300px; height: fit-content;">
+<div style="flex: 0.8; padding: 1em; background: #f5f5f5; border-radius: 8px; max-width: 250px; height: fit-content;">
 
 ### Group News & Achievements
 
-* [Dr Gao Meng named in Forbes China 30 Under 30 List](https://www.hkbu.edu.hk/en/whats-new/discover-hkbu/2020/nov-2020/1117-dr-gao-meng-named-in-forbes-china-30-under-30-list.html)
+* [Prof. Gao receives 2024 Rising Stars in Environmental Research](https://pubs.acs.org/journal/aeacc4)
 
 * [Dr Gao Meng wins Xie Yibing Youth Meteorological Science and Technology Award](https://www.hkbu.edu.hk/en/whats-new/discover-hkbu/2022/nov-2022/hkbu-researcher-wins-xie-yibing-youth-meteorological-science-and-technology-award.html)
 
