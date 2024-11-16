@@ -13,7 +13,7 @@ Below are the topics we have been working on:
 
 ## How climate variability affects atmospheric composition and implications for seasonal predictions 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/r1.png){: style="width: 480px; float: right; border: 10px;padding:15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/r1.png){: style="width: 580px; float: right; border: 10px;padding:15px"}
 
 <br />
 
