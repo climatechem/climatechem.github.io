@@ -18,8 +18,9 @@
   photo: zhuwei.jpg
   info: Postdoctoral Fellow (2024.7 - )
   email: 2020029006@chd.edu.cn
-  number_educ: 1
+  number_educ: 2
   education1: 'PhD, Changan University, 2024'
+  education2: 'BSc, Inner Mongolia University of Science and Technology, 2017'
   
 - name: Huibin Dai (代慧斌)
   photo: daihuibin.jpg
@@ -33,9 +34,10 @@
   photo: xiaorui.jpg
   info: Research Assistant (2024.10 - )
   email: 20482221@life.hkbu.edu.hk
-  number_educ: 2
+  number_educ: 3
   education1: 'PhD, Hong Kong Baptist University, 2024'
   education2: 'MSc, Lanzhou University, 2020'
+  education3: 'BSc, Nanjing University of Information Science and Technology, 2017'
   
 - name: Fan Wang (王凡)
   photo: wangfan.jpg
@@ -71,6 +73,14 @@
   photo: liubofan.jpg
   info: PhD student (2024.9 - )
   email: 24482765@life.hkbu.edu.hk
+  number_educ: 2
+  education1: 'Msc, Imperial College London, 2024'
+  education2: 'Bsc, Nanjing University of Information Science and Technology, 2023'
+
+- name: Zhengwu Ouyang (欧阳正午)
+  photo: zhengwu.jpg
+  info: Mphil student (2024.9 - )
+  email: @life.hkbu.edu.hk
   number_educ: 2
   education1: 'Msc, Imperial College London, 2024'
   education2: 'Bsc, Nanjing University of Information Science and Technology, 2023'
