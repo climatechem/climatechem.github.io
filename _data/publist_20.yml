@@ -1,59 +1,166 @@
-- title: "Health impacts of long-term ozone exposure in China over 2013–2017"
-  authors: 
-    Y Wang, O Wild, X Chen, Q Wu, M Gao, H Chen, Y Qi, Z Wang  
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0160412020319851
-    display: Environment International 144, 106030
-  highlight: 0
+- title: "Substantial increase in the joint occurrence and human exposure of Heatwave and High-PM Hazards (HHH) over South Asia in the mid-21st century"
+  authors: Xu, Y., Wu, X., Kumar, R., Barth, M., Diao, C., Gao, M., Lin, L., Jones, B., and Meehl, G. A.
+  journal: AGU Adv.
+  year: 2020
+  volume: 1
+  issue: 2
+  pages: e2019AV000103
+  link: https://doi.org/10.1029/2019AV000103
+  
+- title: "China's emission control measures have suppressed unfavorable influences of climate on wintertime PM2.5 concentrations in Beijing since 2002"
+  authors: Gao, M., Liu, Z., Zheng, B., Ji, D., Sherman, P., Song, S., Xin, J., Liu, C., Wang, Y., Zhang, Q., Wang, Z., Carmichael, G., and McElroy, M.
+  journal: Atmos. Chem. Phys.
+  year: 2020
+  volume: 20
+  pages: 1497-1505
+  link: https://doi.org/10.5194/acp-20-1497-2020
 
-- title: "Spatiotemporal variability in long-term population exposure to PM2.5 and lung cancer mortality attributable to PM2.5 across the Yangtze River Delta (YRD) region over 2010–2016: A multistage approach"
-  authors: 
-    H Wang, J Li, M Gao, TC Chan, Z Gao, M Zhang, Y Li, Y Gu, A Chen, ...   
-  submit: 
-  link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0045653520313461
-    display: Chemosphere 257, 127153
-  highlight: 0
+- title: "Air quality and climate change, topic 3 of the Model Inter-Comparison Study for Asia Phase III (MICS-Asia III), part II: aerosol radiative effects and aerosol feedbacks"
+  authors: Gao, M., Han, Z., Tao, Z., Li, J., Kang, J.-E., Huang, K., Dong, X., Zhuang, B., Li, S., Ge, B., Wu, Q., Lee, H.-J., Kim, C.-H., Fu, J. S., Wang, T., Chin, M., Li, M., Woo, J.-H., Zhang, Q., Cheng, Y., Wang, Z., and Carmichael, G. R.
+  journal: Atmos. Chem. Phys.
+  year: 2020
+  volume: 20
+  pages: 1147-1161
+  link: https://doi.org/10.5194/acp-20-1147-2020
 
-- title: "Association between residential greenness, cardiometabolic disorders, and cardiovascular disease among adults in China"
-  authors: 
-    BY Yang, LW Hu, B Jalaludin, LD Knibbs, I Markevych, J Heinrich, ...  
-  submit: 
-  link:
-    url: https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2770745
-    display: JAMA network open 3 (9), e2017507-e2017507
-  highlight: 0
+- title: "Ozone pollution over China and India: seasonality and sources"
+  authors: Gao, M., Gao, J., Zhu, B., Kumar, R., Lu, X., Song, S., Zhang, Y., Jia, B., Wang, P., Beig, G., Hu, J., Ying, Q., Zhang, H., Sherman, P., and McElroy, M. B.
+  journal: Atmos. Chem. Phys.
+  year: 2020
+  volume: 20
+  pages: 4399-4414
+  link: https://doi.org/10.5194/acp-20-4399-2020
 
 - title: "Understanding and improving model representation of aerosol optical properties for a Chinese haze event measured during KORUS-AQ"
-  authors: 
-    PE Saide, M Gao, Z Lu, DL Goldberg, DG Streets, JH Woo, A Beyersdorf, ...    
-  submit: 
-  link:
-    url: https://acp.copernicus.org/articles/20/6455/2020/acp-20-6455-2020.html
-    display: Atmospheric Chemistry and Physics 20 (11), 6455-6478
-  highlight: 0
-  
-- title: "Substantial increase in the joint occurrence and human exposure of heatwave and high‐PM hazards over South Asia in the mid‐21st century"
-  authors: 
-    Y Xu, X Wu, R Kumar, M Barth, C Diao, M Gao, L Lin, B Jones, GA Meehl    
-  link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019AV000103
-    display: Agu Advances 1 (2), e2019AV000103
-  highlight: 0
+  authors: Saide, P. E., Gao, M., Lu, Z., Goldberg, D., Streets, D. G., Woo, J.-H., Beyersdorf, A., Corr, C. A., Thornhill, K. L., Anderson, B., Hair, J. W., Nehrir, A. R., Diskin, G. S., Jimenez, J. L., Nault, B. A., Campuzano-Jost, P., Dibb, J., Heim, E., Lamb, K. D., Schwarz, J. P., Perring, A. E., Kim, J., Choi, M., Holben, B., Pfister, G., Hodzic, A., Carmichael, G. R., Emmons, L., and Crawford, J. H.
+  journal: Atmos. Chem. Phys.
+  year: 2020
+  volume: 20
+  pages: 6455-6478
+  link: https://doi.org/10.5194/acp-20-6455-2020
 
-- title: "Acute and chronic health impacts of PM2. 5 in China and the influence of interannual meteorological variability"
-  authors: 
-    Y Wang, O Wild, H Chen, M Gao, Q Wu, Y Qi, X Chen, Z Wang    
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S1352231020301369
-    display: Atmospheric Environment 229, 117397
-  highlight: 0
-  
-- title: "Ozone pollution over China and India: seasonality and sources"
-  authors: 
-    M Gao, J Gao, B Zhu, R Kumar, X Lu, S Song, Y Zhang, B Jia, P Wang, ...    
-  link:
-    url: https://acp.copernicus.org/articles/20/4399/2020/
-    display: Atmospheric Chemistry and Physics 20 (7), 4399-4414
-  highlight: 0
+- title: "Association between residential greenness, cardiometabolic disorders, and cardiovascular disease among adults in China"
+  authors: Yang, B.Y., Hu, L.W., Jalaludin, B., Knibbs, L.D., Markevych, I., Heinrich, J., Bloom, M.S., Morawska, L., Lin, S., Jalava, P., Roponen, M., Gao, M., Chen, D.H., Zhou, Y., Yu, H., Liu, R., Zeng, X., Zeeshan, M., Guo, Y., Yu, Y., and Dong, G.
+  journal: JAMA Netw. Open
+  year: 2020
+  volume: 3
+  issue: 9
+  pages: e2017507-e2017507
+  link: https://doi.org/10.1001/jamanetworkopen.2020.17507
 
+- title: "Modification of caesarean section on the associations between air pollution and childhood asthma in seven Chinese cities"
+  authors: Yu, H., Guo, Y., Zeng, X., Gao, M., Yang, B.Y., Hu, L.W., Yu, Y., and Dong, G.H.
+  journal: Environ. Pollut.
+  year: 2020
+  volume: 267
+  pages: "115443"
+  link: https://doi.org/10.1016/j.envpol.2020.115443
+
+- title: "Health impacts of long-term ozone exposure in China over 2013–2017"
+  authors: Wang, Y., Wild, O., Chen, X., Wu, Q., Gao, M., Chen, H., Qi, Y., and Wang, Z.
+  journal: Environ. Int.
+  year: 2020
+  volume: 144
+  pages: "106030"
+  link: https://doi.org/10.1016/j.envint.2020.106030
+
+- title: "Challenges for global sustainable nitrogen management in agricultural systems"
+  authors: Liu, L., Zhang, X., Xu, W., Liu, X., Li, Y., Wei, J., Gao, M., Bi, J., Lu, X., Wang, Z., and Wu, X.
+  journal: J. Agric. Food Chem.
+  year: 2020
+  volume: 68
+  issue: 11
+  pages: 3354-3361
+  link: https://doi.org/10.1021/acs.jafc.9b07773
+
+- title: "Spatiotemporal variability in long-term population exposure to PM2.5 and lung cancer mortality attributable to PM2.5 across the Yangtze River Delta (YRD) region over 2010 - 2016: A multistage approach"
+  authors: Wang, H., Li, J., Gao, M., Chan, T.C., Gao, Z., Zhang, M., Li, Y., Gu, Y., Chen, A., Yang, Y., and Ho, H.C.
+  journal: Chemosphere
+  year: 2020
+  volume: 257
+  pages: "127153"
+  link: https://doi.org/10.1016/j.chemosphere.2020.127153
+
+- title: "The role of influenza vaccination in mitigating the adverse impact of ambient air pollution on lung function in children: new insights from the Seven Northeastern Cities Study in China"
+  authors: Liu, K., Yang, B.Y., Guo, Y., Bloom, M.S., Dharmage, S.C., Knibbs, L.D., Heinrich, J., Leskinen, A., Lin, S., Morawska, L., Jalaludin, B., Markevych, I., Jalava, P., Komppula, M., Yu, Y., Gao, M., Zhou, Y., Yu, H.Y., Hu, L.W., Zeng, X.W., and Dong, G.H.
+  journal: Environ. Res.
+  year: 2020
+  volume: 187
+  pages: "109624"
+  link: https://doi.org/10.1016/j.envres.2020.109624
+
+- title: "Rapid increases in warm-season surface ozone and resulting health impact over China since 2013"
+  authors: Lu, X., Zhang, L., Wang, X., Gao, M., Li, K., Zhang, Y., Yue, X., and Zhang, Y.
+  journal: Environ. Sci. Technol. Lett.
+  year: 2020
+  volume: 7
+  issue: 4
+  pages: 240-247
+  link: https://doi.org/10.1021/acs.estlett.0c00171
+
+- title: "Real-time geochemistry of urban aerosol during a heavy dust episode by single-particle aerosol mass spectrometer: Spatio-temporal variability, mixing state and spectral distribution"
+  authors: Shen, L., Hao, F., Gao, M., Wang, H., Zhu, B., Gao, J., Cheng, Y., and Xie, F.
+  journal: Particuology
+  year: 2020
+  volume: 53
+  pages: 197-207
+  link: https://doi.org/10.1016/j.partic.2020.01.004
+
+- title: "Acute and chronic health impacts of PM2.5 in China and the influence of interannual meteorological variability"
+  authors: Wang, Y., Wild, O., Chen, H., Gao, M., Wu, Q., Chen, X., and Wang, Z.
+  journal: Atmos. Environ.
+  year: 2020
+  volume: 229
+  pages: "117397"
+  link: https://doi.org/10.1016/j.atmosenv.2020.117397
+
+- title: "Vehicle emissions in a middle-sized city of China: current status and future trends"
+  authors: Sun, S., Jin, J., Xia, M., Liu, Y., Gao, M., Zou, C., Wang, T., Liu, Y., Wu, L., Mao, H., and Wang, P.
+  journal: Environ. Int.
+  year: 2020
+  volume: 137
+  pages: "105514"
+  link: https://doi.org/10.1016/j.envint.2020.105514
+
+- title: "Evaluation of NU-WRF performance on air quality simulation under various model resolutions – an investigation within framework of MICS-Asia Phase III"
+  authors: Tao, Z., Chin, M., Gao, M., Kucsera, T., Kim, D., Bian, H., Kurokawa, J., Wang, Y., Carmichael, G. R., Wang, Z., and Akimoto, H.
+  journal: Atmos. Chem. Phys.
+  year: 2020
+  volume: 20
+  pages: 2319-2339
+  link: https://doi.org/10.5194/acp-20-2319-2020
+
+- title: "Daily global solar radiation in China estimated from high-density meteorological observations: a random forest model framework"
+  authors: Zeng, Z., Wang, Z., Gui, K., Yan, X., Gao, M., Luo, M., Geng, H., Liao, T., Li, X., An, J., Liu, H., He, C., Ning, G., Yang, Y.
+  journal: Earth Space Sci.
+  year: 2020
+  volume: 7
+  issue: 2
+  pages: e2019EA001058
+  link: https://doi.org/10.1029/2019EA001058
+
+- title: "Association between residential greenness and metabolic syndrome in Chinese adults"
+  authors: Yang, B.Y., Liu, K.K., Markevych, I., Knibbs, L.D., Bloom, M.S., Dharmage, S.C., Lin, S., Morawska, L., Heinrich, J., Jalaludin, B., Gao, M., Guo, Y., Zhou, Y., Huang, W., Yu, H., Zeng, X., Hu, L., Hu, Q., Dong, G.
+  journal: Environ. Int.
+  year: 2020
+  volume: 135
+  pages: "105388"
+  link: https://doi.org/10.1016/j.envint.2019.105388
+
+- title: "Evaluating errors in gamma function representations of the rain drop size distribution: a method for determining the optimal parameter set for use in bulk microphysics schemes"
+  authors: Shan, Y., Wilcox, E.M., Gao, L., Lin, L., Mitchell, D.L., Yin, Y., Zhao, T., Zhang, L., Shi, H., and Gao, M.
+  journal: J. Atmos. Sci.
+  year: 2020
+  volume: 77
+  issue: 2
+  pages: 513-529
+  link: https://doi.org/10.1175/JAS-D-19-0092.1
+
+- title: "Association of intestinal disorders with Parkinson's disease and Alzheimer's disease: a systematic review and meta-analysis"
+  authors: Fu, P., Gao, M., and Yung, K. K.L.
+  journal: ACS Chem. Neurosci.
+  year: 2020
+  volume: 11
+  issue: 3
+  pages: 395-405
+  link: https://doi.org/10.1021/acschemneuro.9b00607
