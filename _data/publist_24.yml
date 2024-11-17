@@ -1,10 +1,9 @@
 - title: "Brown carbon in East Asia: seasonality, sources and influences on regional climate and air quality"
-  authors: 
-    Wang, F., Lu, Z., Lin, G., Carmichael, G.R. and Gao, M.* ACS Environ. Au, in press, 2024
-  link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S1364815224002548
-    display: "Link"
-  highlight: 0
+  authors: "Wang, F., Lu, Z., Lin, G., Carmichael, G.R. and Gao, M.*"
+  journal: "ACS Environ. Au"
+  status: "in press"
+  year: 2024
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
 - title: "Long-term exposure to ozone and sleep disorders in children: A multicity study in China"
   authors: 
     ZH Gui, J Heinrich, L Morawska, TY Zhao, SHL Yim, XQ Lao, M Gao, ...
