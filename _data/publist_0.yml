@@ -1,51 +1,198 @@
-- title: "The impact of power generation emissions on ambient PM2. 5 pollution and human health in China and India"
-  image: dummy.png
-  description: ""
-  authors: 
-    M Gao, G Beig, S Song, H Zhang, J Hu, Q Ying, F Liang, Y Liu, H Wang, ...      
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0160412018313369
-    display: Environment international 121, 250-259
-  highlight: 0
+- title: Secular decrease of wind power potential in India associated with warming in the Indian Ocean
+  authors: Gao, M., Ding, Y., Song, S., Lu, X., Chen, X., and McElroy, M. B.
+  journal: Sci. Adv.
+  year: 2018
+  volume: 4
+  issue: 12
+  pages: eaat5256
+  link: https://doi.org/10.1126/sciadv.aat5256
 
-- title: "Fine-particle pH for Beijing winter haze as inferred from different thermodynamic equilibrium models"
-  image: dummy.png
-  description: ""
-  authors:
-    S Song, M Gao, W Xu, J Shao, G Shi, S Wang, Y Wang, Y Sun, ...
-  link:
-    url: https://acp.copernicus.org/preprints/acp-2018-6/
-    display: Atmospheric Chemistry and Physics 18 (10), 7423-7438
-  highlight: 0
+- title: The impact of power generation emissions on ambient PM2.5 pollution and human health in China and India
+  authors: Gao, M., Beig, G., Song, S., Zhang, H., Hu, J., Ying, Q., Liang, F., Liu, Y., Wang, H., Lu, X., Zhu, T., Carmichael, G. R., Nielsen, C. P., and McElroy, M. B.
+  journal: Environ. Int.
+  year: 2018
+  volume: 121
+  pages: 250-259
+  link: https://doi.org/10.1016/j.envint.2018.09.015
 
+- title: Attribution of aerosol direct radiative forcing in China and India to emitting sectors
+  authors: Gao, M., Ji, D., Liang, F., and Liu, Y.
+  journal: Atmos. Environ.
+  year: 2018
+  volume: 190
+  pages: 35-42
+  link: https://doi.org/10.1016/j.atmosenv.2018.07.011
 
-- title: "Distinguishing the roles of meteorology, emission control measures, regional transport, and co-benefits of reduced aerosol feedbacks in “APEC Blue”"
-  image: dummy.png
-  description: ""
-  authors:
-    M Gao, Z Liu, Y Wang, X Lu, D Ji, L Wang, M Li, Z Wang, Q Zhang, ...   
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S1352231017305678
-    display: Atmospheric Environment 167, 476-486
-  highlight: 0
+- title: Air quality and climate change, topic 3 of the Model Inter-Comparison Study for Asia Phase III (MICS-Asia III) part 1: overview and model evaluation
+  authors: Gao, M., Han, Z., Liu, Z., Li, M., Xin, J., Tao, Z., Li, J., Kang, J. E., Huang, K., Dong, X., Zhuang, B., Li, S., Ge, B., Wu, Q., Cheng, Y., Wang, Y., Lee, H.-J., Kim, C.-H., Fu, J. S., Wang, T., Chin, M., Woo, J.-H., Zhang, Q., Wang, Z., and Carmichael, G. R.
+  journal: Atmos. Chem. Phys.
+  year: 2018
+  volume: 18
+  pages: 4859-4884
+  link: https://doi.org/10.5194/acp-18-4859-2018
 
-- title: "Reactive nitrogen chemistry in aerosol water as a source of sulfate during haze events in China"
-  image: dummy.png
-  description: ""
-  authors: 
-    Y Cheng, G Zheng, C Wei, Q Mu, B Zheng, Z Wang, M Gao, Q Zhang, ...      
-  link:
-    url: https://www.science.org/doi/abs/10.1126/sciadv.1601530
-    display: Science advances 2 (12), e1601530
-  highlight: 0
+- title: Fine particle pH for Beijing winter haze as inferred from different thermodynamic equilibrium models
+  authors: Song, S., Gao, M., Xu, W., Shao, J., Shi, G., Wang, S., Wang, Y., Sun, Y., and McElroy, M. B.
+  journal: Atmos. Chem. Phys.
+  year: 2018
+  volume: 18
+  pages: 7423-7438
+  link: https://doi.org/10.5194/acp-18-7423-2018
 
-- title: "Modeling study of the 2010 regional haze event in the North China Plain"
-  image: dummy.png
-  description: ""
-  authors:
-    M Gao, GR Carmichael, Y Wang, PE Saide, M Yu, J Xin, Z Liu, Z Wang  
-  link:
-    url: https://acp.copernicus.org/articles/16/1673/2016/
-    display: Atmospheric Chemistry and Physics 16 (3), 1673-1691
-  highlight: 0
+- title: Diurnal variation of aerosol optical depth and PM2.5 in South Korea, a synthesis from AERONET, Satellite (GOCI), KORUS-AQ observation, and WRF-Chem model
+  authors: Lennartson, E., Wang, J., Garcia, L., Ge, C., Carmichael, G. R., Gao, M., Kim, J., and Scott, J.
+  journal: Atmos. Chem. Phys.
+  year: 2018
+  volume: 18
+  pages: 15125-15144
+  link: https://doi.org/10.5194/acp-18-15125-2018
 
+- title: Severe surface ozone pollution in China, a global perspective
+  authors: Lu, X., Hong, J., Zhang, L., Cooper, O. R., Schultz, M. G., Xu, X., Wang, T., Gao, M., Zhao, Y., and Zhang, Y.
+  journal: Environ. Sci. Technol. Lett.
+  year: 2018
+  volume: 5
+  issue: 8
+  pages: 487-494
+  link: https://doi.org/10.1021/acs.estlett.8b00366
+
+- title: Source apportionment of aerosol ammonium in an ammonia rich atmosphere, an isotopic study of summer clean and hazy days in urban Beijing
+  authors: Pan, Y., Tian, S., Liu, D., Fang, Y., Zhu, X., Gao, M., Gao, J., Wentworth, G., Michalski, G., and Wang, Y.
+  journal: J. Geophys. Res.-Atmos.
+  year: 2018
+  volume: 123
+  issue: 10
+  pages: 5681-5689
+  link: https://doi.org/10.1029/2017JD028095
+
+- title: Isotopic evidence for enhanced fossil fuel sources of aerosol ammonium in the urban atmosphere
+  authors: Pan, Y., Tian, S., Liu, D., Fang, Y., Zhu, X., Gao, M., Gao, J., Michalski, G., and Wang, Y.
+  journal: Environ. Pollut.
+  year: 2018
+  volume: 238
+  pages: 942-947
+  link: https://doi.org/10.1016/j.envpol.2018.03.038
+
+- title: Lower tropospheric ozone over India and its linkage to the South Asian Monsoon
+  authors: Lu, X., Zhang, L., Liu, X., Gao, M., Zhao, Y., and Shao, J.
+  journal: Atmos. Chem. Phys.
+  year: 2018
+  volume: 18
+  pages: 3101-3118
+  link: https://doi.org/10.5194/acp-18-3101-2018
+
+- title: Two-year continuous measurements of carbonaceous aerosols in urban Beijing, China, temporal variations, characteristics and source analyses
+  authors: Ji, D., Yan, Y., Wang, Z., He, J., Liu, B., Sun, Y., Gao, M., Li, Y., Cao, W., Cui, Y., Hu, B., Xin, J., Wang, L., Liu, Z., Tang, G., and Wang, Y.
+  journal: Chemosphere
+  year: 2018
+  volume: 200
+  pages: 191-200
+  link: https://doi.org/10.1016/j.chemosphere.2018.02.067
+
+- title: Distinguishing the roles of meteorology, emission control measures, regional transport, and co-benefits of reduced aerosol feedbacks in APEC Blue
+  authors: Gao, M., Liu, Z., Wang, Y., Lu, X., Ji, D., Wang, L., Li, M., Wang, Z., Zhang, Q., and Carmichael, G. R.
+  journal: Atmos. Environ.
+  year: 2017
+  volume: 167
+  pages: 476-486
+  link: https://doi.org/10.1016/j.atmosenv.2017.08.054
+
+- title: Estimates of health impacts and radiative forcing in winter haze in Eastern China through constraints of surface PM2.5 predictions
+  authors: Gao, M., Saide, P. E., Xin, J., Wang, Y., Liu, Z., Wang, Y., Wang, Z., Pagowski, M., Guttikunda, S. K., and Carmichael, G. R.
+  journal: Environ. Sci. Technol.
+  year: 2017
+  volume: 51
+  issue: 4
+  pages: 2178-2185
+  link: https://doi.org/10.1021/acs.est.6b03745
+
+- title: Evaluation of a data fusion approach to estimate daily PM2.5 levels in North China
+  authors: Liang, F., Gao, M., Xiao, Q., Carmichael, G. R., Pan, X., and Liu, Y.
+  journal: Environ. Res.
+  year: 2017
+  volume: 158
+  pages: 54-60
+  link: https://doi.org/10.1016/j.envres.2017.06.001
+
+- title: The impact of synoptic circulation on air quality and pollution-related human health in the Yangtze River Delta region
+  authors: Liao, Z., Gao, M., Sun, J., and Fan, S.
+  journal: Sci. Total Environ.
+  year: 2017
+  volume: 607
+  pages: 838-846
+  link: https://doi.org/10.1016/j.scitotenv.2017.07.031
+
+- title: The impact of relative humidity on the size distribution and chemical processes of major water-soluble inorganic ions in the megacity of Chongqing, China
+  authors: Wang, L., Ji, D., Li, Y., Gao, M., Tian, S., Wen, T., Liu, Z., Wang, L., Xu, P., Jiang, C., and Wang, Y.
+  journal: Atmos. Res.
+  year: 2017
+  volume: 192
+  pages: 19-29
+  link: https://doi.org/10.1016/j.atmosres.2017.03.016
+
+- title: Improving simulations of sulfate aerosols during winter haze over Northern China, the impacts of heterogeneous oxidation by NO2
+  authors: Gao, M., Carmichael, G. R., Wang, Y., Ji, D., Liu, Z., and Wang, Z.
+  journal: Front. Env. Sci. Eng.
+  year: 2016
+  volume: 10
+  pages: 1-11
+  link: https://doi.org/10.1007/s11783-016-0878-2
+
+- title: Response of winter fine particulate matter concentrations to emission and meteorology changes in North China
+  authors: Gao, M., Carmichael, G. R., Saide, P. E., Lu, Z., Yu, M., Streets, D. G., and Wang, Z.
+  journal: Atmos. Chem. Phys.
+  year: 2016
+  volume: 16
+  issue: 18
+  pages: 11837-11851
+  link: https://doi.org/10.5194/acp-16-11837-2016
+
+- title: Modeling Study of the 2010 regional haze event in the North China Plain
+  authors: Gao, M., Carmichael, G. R., Wang, Y., Saide, P. E., Yu, M., Xin, J., Liu, Z., and Wang, Z.
+  journal: Atmos. Chem. Phys.
+  year: 2016
+  volume: 16
+  issue: 3
+  pages: 1673-1691
+  link: https://doi.org/10.5194/acp-16-1673-2016
+
+- title: Reactive nitrogen chemistry in aerosol water as a source of sulfate during haze events in China
+  authors: Cheng, Y., Zheng, G., Wei, C., Mu, Q., Zheng, B., Wang, Z., Gao, M., Zhang, Q., He, K., Carmichael, G. R., Poschl, U., and Su, H.
+  journal: Sci. Adv.
+  year: 2016
+  volume: 2
+  issue: 12
+  pages: e1601530
+  link: https://doi.org/10.1126/sciadv.1601530
+
+- title: Health impacts and economic losses assessment of the 2013 severe haze event in Beijing area
+  authors: Gao, M., Guttikunda, S. K., Carmichael, G. R., Wang, Y., Liu, Z., Stanier, C. O., Saide, P. E., and Yu, M.
+  journal: Sci. Total Environ.
+  year: 2015
+  volume: 511
+  pages: 553-561
+  link: https://doi.org/10.1016/j.scitotenv.2015.01.005
+
+- title: "Comparison of PMF and PCA/APCS for VOCs source apportionment in North suburb of Nanjing"
+  authors: Gao, M., An, J., Hang, Y., and Li, Y.
+  journal: J. Meteorol. Environ.
+  year: 2014
+  volume: 30
+  pages: 43-50
+  note: (in Chinese)
+
+- title: "Advances in the study of water vapor vertical transport into stratosphere by deep convections"
+  authors: Lei, D., Jin, L., Zhu, Z., and Gao, M.
+  journal: J. NUIST, Nat. Sci. Ed.
+  year: 2012
+  volume: 4
+  pages: 241-247
+  note: (in Chinese)
+
+- title: "Influence of aerosols mixing state on the microphysics of warm clouds in North China"
+  authors: Yang, S., Ma, J., Hu, Z., Jin, L., Xu, X., and Gao, M.
+  journal: Trans. Atmos. Sci.
+  year: 2011
+  volume: 34
+  pages: 606-613
+  note: (in Chinese)
