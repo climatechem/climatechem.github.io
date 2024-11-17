@@ -1,90 +1,183 @@
 - title: "Unprecedented decline in summertime surface ozone over eastern China in 2020 comparably attributable to anthropogenic emission reductions and meteorology"
-  authors: 
-    H Yin, X Lu, Y Sun, K Li, M Gao, B Zheng, C Liu
-  link:
-    url: https://iopscience.iop.org/article/10.1088/1748-9326/ac3e22/meta
-    display: "Environmental Research Letters 16 (12), 124069"
-  highlight: 0
+  authors: "Yin, H., Lu, X.*, Sun, Y.*, Li, K., Gao, M., Zheng, B. and Liu, C."
+  journal: "Environ. Res. Lett."
+  volume: "16"
+  issue: "12"
+  pages: "124069"
+  year: 2021
+  link: "https://doi.org/10.1088/1748-9326/ac3e22"
 
-- title: "Opposite impact of emission reduction during the COVID-19 lockdown period on the surface concentrations of PM2. 5 and O3 in Wuhan, China"
-  authors: 
-    H Yin, C Liu, Q Hu, T Liu, S Wang, M Gao, S Xu, C Zhang, W Su
-  submit: 
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0269749121014810
-    display: Environmental Pollution 289, 117899
-  highlight: 0
+- title: "Distinct regimes of O3 response to COVID-19 lockdown in China"
+  authors: "Liu, S., Liu, C.*, Hu, Q., Su, W., Yang, X., Lin, J., Zhang, C., Xing, C., Ji, X., Tan, W., Liu, H., and Gao, M.*"
+  journal: "Atmosphere"
+  volume: "12"
+  issue: "2"
+  pages: "184"
+  year: 2021
+  link: "https://doi.org/10.3390/atmos12020184"
+
+- title: "Ground-based vertical profile observations of atmospheric composition on the Tibetan Plateau (2017–2019)"
+  authors: "Xing, C., Liu, C.*, Wu, H., Lin, J., Wang, S., and Gao, M.*"
+  journal: "Earth. Syst. Sci. Data"
+  volume: "13"
+  pages: "4897-4912"
+  year: 2021
+  link: "https://doi.org/10.5194/essd-13-4897-2021"
 
 - title: "Ultrafine particles, blood pressure and adult hypertension: a population-based survey in Northeast China"
-  authors: 
-    LZ Lin, M Gao, X Xiao, LD Knibbs, L Morawska, SC Dharmage, J Heinrich, ...
-  submit: 
-  link:
-    url: https://iopscience.iop.org/article/10.1088/1748-9326/ac1c28/meta
-    display: Environmental Research Letters 16 (9), 094041
-  highlight: 0
+  authors: "Lin, L.#, Gao, M.#, Xiao, X.#, Knibbs, L.D., Morawska, L., Dharmage, S., Heinrich, J., Jalaudin, B., Lin, S., Guo, Y., Xu, S., Wu, Q., Chen, G., Yang, B., Zeng, X., Yu, Y., Hu, L. and Dong G.*"
+  journal: "Environ. Res. Lett."
+  volume: "16"
+  pages: "094041"
+  year: 2021
+  link: "https://doi.org/10.1088/1748-9326/ac1e2d"
 
-- title: "Street view greenness is associated with lower risk of obesity in adults: findings from the 33 Chinese community health study"
-  authors: 
-    X Xiao, R Wang, LD Knibbs, B Jalaludin, J Heinrich, I Markevych, M Gao, ...  
-  submit: 
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0013935121007283
-    display: Environmental Research 200, 111434
-  highlight: 0
+- title: "Opposite impact of emission reduction during the COVID-19 lockdown period on the surface concentrations of PM2.5 and O3 in Wuhan, China"
+  authors: "Yin, H., Liu, C.*, Hu, Q., Liu, T., Wang, S., Gao, M., Xu, S., Zhang, C., and Su, W."
+  journal: "Environ. Pollut."
+  volume: "289"
+  pages: "117899"
+  year: 2021
+  link: "https://doi.org/10.1016/j.envpol.2021.117899"
 
-- title: "The underappreciated role of agricultural soil nitrogen oxide emissions in ozone pollution regulation in North China"
-  authors: 
-    X Lu, X Ye, M Zhou, Y Zhao, H Weng, H Kong, K Li, M Gao, B Zheng, J Lin, ...
-  link:
-    url: https://www.nature.com/articles/s41467-021-25147-9
-    display: "Nature Communications 12 (1), 5021"
-  highlight: 0
+- title: "The underappreciated role of agricultural soil nitrogen oxides emissions in ozone pollution regulation in North China"
+  authors: "Lu, X., Ye, X., Zhou, M., Zhao, Y., Weng, H., Kong, H., Li, K., Gao, M., Zheng, B., Lin, J., Zhou, F., Zhang, Q., Zhang, L.* and Zhang, Y.*"
+  journal: "Nat. Commun."
+  volume: "12"
+  issue: "1"
+  pages: "1-9"
+  year: 2021
+  link: "https://doi.org/10.1038/s41467-021-25147-9"
 
-- title: "Maternal exposure to ambient air pollution and congenital heart defects in China"
-  authors: 
-    BY Yang, Y Qu, Y Guo, I Markevych, J Heinrich, MS Bloom, Z Bai, ... 
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0160412021001732
-    display: "Environment international 153, 106548"
-  highlight: 0
-
-- title: "Large-scale synoptic drivers of co-occurring summertime ozone and PM2.5 pollution in eastern China"
-  authors: 
-    L Zong, Y Yang, M Gao, H Wang, P Wang, H Zhang, L Wang, G Ning, ...   
-  link:
-    url: https://acp.copernicus.org/articles/21/9105/2021/
-    display: "Atmospheric Chemistry and Physics 21 (11), 9105-9124"
-  highlight: 0
-  
-- title: "Air quality and health benefits from ultra-low emission control policy indicated by continuous emission monitoring: a case study in the Yangtze River Delta region, China"
-  authors: 
-    Y Zhang, Y Zhao, M Gao, X Bo, CP Nielsen   
-  link:
-    url: https://acp.copernicus.org/articles/21/6411/2021/acp-21-6411-2021.html
-    display: "Atmospheric Chemistry and Physics 21 (8), 6411-6430"
-  highlight: 0
+- title: "Reduced light absorption of black carbon (BC) and its influence on BC-boundary-layer interactions during APEC Blue"
+  authors: "Gao, M.*, Yang, Y., Liao, H., Zhu, B., Zhang, Y., Liu, Z., Lu, X., Wang, C., Zhou, Q., Wang, Y., Zhang, Q., Carmichael, G. R., and Hu, J.*"
+  journal: "Atmos. Chem. Phys."
+  volume: "21"
+  pages: "11405-11421"
+  year: 2021
+  link: "https://doi.org/10.5194/acp-21-11405-2021"
 
 - title: "Stereoscopic monitoring: a promising strategy to advance diagnostic and prediction of air pollution"
-  authors: 
-    C Liu, M Gao, Q Hu, GP Brasseur, GR Carmichael 
-  link: 
-    url: https://journals.ametsoc.org/view/journals/bams/102/4/BAMS-D-20-0217.1.xml
-    display: "Bulletin of the American Meteorological Society 102 (4), E730-E737"
-  highlight: 0
-  
-- title: "Rapid increase in mortality attributable to PM2. 5 exposure in India over 1998–2015"
-  authors: 
-    B Jia, M Gao, X Zhang, X Xiao, S Zhang, KKL Yung  
-  link: 
-    url: https://www.sciencedirect.com/science/article/pii/S0045653520329131
-    display: "Chemosphere 269, 128715"
-  highlight: 0
+  authors: "Liu, C., Gao, M.*, Hu, Q., Brasseur, G. P. and Carmichael, G.R."
+  journal: "Bull. Amer. Meteorol. Soc."
+  volume: "102"
+  issue: "4"
+  pages: "E730-E737"
+  year: 2021
+  link: "https://doi.org/10.1175/BAMS-D-20-0217.1"
 
-- title: "Tropospheric ozone variability over Hong Kong based on recent 20 years (2000–2019) ozonesonde observation"
-  authors: 
-    Z Liao, Z Ling, M Gao, J Sun, W Zhao, P Ma, J Quan, S Fan 
-  link: 
-    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD033054
-    display: "Journal of Geophysical Research: Atmospheres 126 (3), e2020JD033054"
-  highlight: 0
+- title: "Nonlinear modulation of COVID‐19 transmission by climate conditions"
+  authors: "Gao, M.*, Zhou, Q., Yang, X., Li, Q., Zhang, S., Yung, K.K.L. and Guo, Y.*"
+  journal: "Meteorol. Appl."
+  volume: "28"
+  issue: "2"
+  pages: "e1985"
+  year: 2021
+  link: "https://doi.org/10.1002/met.1985"
+
+- title: "Sensitivity of modeled Indian monsoon to Chinese and Indian aerosol emissions"
+  authors: "Sherman, P., Gao, M., Song, S., Archibald, A. T., Abraham, N. L., Lamarque, J.-F., Shindell, D., Faluvegi, G., and McElroy, M. B.*"
+  journal: "Atmos. Chem. Phys."
+  volume: "21"
+  pages: "3593-3605"
+  year: 2021
+  link: "https://doi.org/10.5194/acp-21-3593-2021"
+
+- title: "Large-scale synoptic drivers of co-occurring summertime ozone and PM2.5 pollution in eastern China"
+  authors: "Zong, L., Yang, Y.*, Gao, M., Wang, H., Wang, P., Zhang, H., Wang, L., Ning, G., Liu, C., Li, Y., and Gao, Z."
+  journal: "Atmos. Chem. Phys."
+  volume: "21"
+  pages: "9105-9124"
+  year: 2021
+  link: "https://doi.org/10.5194/acp-21-9105-2021"
+
+- title: "Street view greenness is associated with lower risk of obesity in adults: findings from the 33 Chinese community health study street view"
+  authors: "Xiao, X., Wang, R., Knibbs, L., Jalaludin, B., Heinrich, J., Markevych, I., Gao, M., Xu, S., Wu, Q., Zeng, X., Chen, G., Hu, L., Yang, B., Yu, Y.* and Dong, G.*"
+  journal: "Environ. Res."
+  volume: "200"
+  pages: "111434"
+  year: 2021
+  link: "https://doi.org/10.1016/j.envres.2021.111434"
+
+- title: "Quantifying contributions of local emissions and regional transport to NOx in Beijing using TROPOMI constrained WRF-Chem simulation"
+  authors: "Zhu, Y., Hu, Q.*, Gao, M., Zhao, C., Zhang, C., Liu, T., Tian, Y., Yan, L., Su, W., Hong, X. and Liu, C."
+  journal: "Remote. Sens."
+  volume: "13"
+  issue: "9"
+  pages: "1798"
+  year: 2021
+  link: "https://doi.org/10.3390/rs13091798"
+
+- title: "Maternal exposure to ambient air pollution and congenital heart defects in China"
+  authors: "Yang, B., Qu, Y., Guo, Y., Markevych, I., Heinrich, J., Bloom, M. S., Bai, Z., Knibbs, L. C., Li, S., Chen, G., Jalaludin, B., Morawska, L, Gao, M., Han, B., Yu, Y., Liu, X., Ou, Y., Mai, J., Gao, X., Wu, Y., Nie, Z., Zeng, X., Hu, L., Lin, S., Liu, X. and Dong, G.*"
+  journal: "Environ. Int."
+  volume: "153"
+  pages: "106548"
+  year: 2021
+  link: "https://doi.org/10.1016/j.envint.2021.106548"
+
+- title: "Air quality and health benefits from ultra-low emission control policy indicated by continuous emission monitoring: A case study in the Yangtze River Delta region, China"
+  authors: "Zhang, Y., Zhao, Y.*, Gao, M., Bo, X. and Nielsen, C."
+  journal: "Atmos. Chem. Phys."
+  volume: "21"
+  pages: "6411-6430"
+  year: 2021
+  link: "https://doi.org/10.5194/acp-21-6411-2021"
+
+- title: "The aggravated short-term PM2.5-related health risk due to atmospheric transport in the Yangtze River Delta"
+  authors: "Wang, P., Shen, J., Zhu, S., Gao, M., Ma, J., Liu, J., Gao, J. and Zhang H.*"
+  journal: "Environ. Pollut."
+  volume: "275"
+  pages: "116672"
+  year: 2021
+  link: "https://doi.org/10.1016/j.envpol.2021.116672"
+
+- title: "Multi-model intercomparisons of air quality simulations for the KORUS-AQ campaign"
+  authors: "Park, R. J.*, Oak, Y. J., Emmons, L. K., Kim, C. H., Pfister, G. G., Carmichael, G. R., Saide, P.E., Cho, S.Y., Kim, S., Woo, Crawford, J.H., Gaubert, B., Lee, H.J., Park, S.Y., Jo, Y.J., Gao, M., Tang, B., Stanier, C.O., Shin, S.S., Park, H.Y., Bae, C. and Kim, E."
+  journal: "Elementa-Sci. Anthrop."
+  volume: "9"
+  issue: "1"
+  pages: "00139"
+  year: 2021
+  link: "https://doi.org/10.1525/elementa.2021.00139"
+
+- title: "Global modeling of heterogeneous hydroxymethanesulfonate chemistry"
+  authors: "Song, S.*, Ma, T., Zhang, Y., Shen, L., Liu, P., Li, K., Zhai, S., Zheng, H., Gao, M., Moch, J. M., Duan, F., He, K., and McElroy, M. B."
+  journal: "Atmos. Chem. Phys."
+  volume: "21"
+  pages: "457-481"
+  year: 2021
+  link: "https://doi.org/10.5194/acp-21-457-2021"
+
+- title: "Appreciable role of stratospheric polar vortex in the abnormal diffusion of air pollutant in North China and implications for prediction"
+  authors: "Huang, W., Yu, Y.*, Yin, Z., Chen, H. and Gao, M."
+  journal: "Atmos. Environ."
+  volume: "259"
+  pages: "118549"
+  year: 2021
+  link: "https://doi.org/10.1016/j.atmosenv.2021.118549"
+
+- title: "Tropospheric ozone variability over Hong Kong based on recent 20-year (2000–2019) Ozonesonde observation"
+  authors: "Liao, Z., Z. Ling, M. Gao, J. Sun, W., Zhao, P. Ma, J. Quan* and Fan S.*"
+  journal: "J. Geophys. Res.-Atmos."
+  volume: "126"
+  issue: "3"
+  pages: "e2020JD033054"
+  year: 2021
+  link: "https://doi.org/10.1029/2020JD033054"
+
+- title: "Rapid increase in mortality attributable to PM2.5 exposure in India over 1998-2015"
+  authors: "Jia, B., Gao, M.*, Zhang, X., Xiao, X., Zhang, S. and Yung, K.K.L.*"
+  journal: "Chemosphere"
+  volume: "269"
+  pages: "128715"
+  year: 2021
+  link: "https://doi.org/10.1016/j.chemosphere.2020.128715"
+
+- title: "Sensitivity of PM2.5 to NOx emissions and meteorology in North China based on observations"
+  authors: "Jia, B., Wang, Y.*, Wang, C., Zhang, Q., Gao, M.* and Yung, K.L.L"
+  journal: "Sci. Total Environ."
+  volume: "766"
+  pages: "142275"
+  year: 2021
+  link: "https://doi.org/10.1016/j.scitotenv.2020.142275"
