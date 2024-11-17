@@ -4,73 +4,179 @@
   status: "in press"
   year: 2024
   link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
-- title: "Long-term exposure to ozone and sleep disorders in children: A multicity study in China"
-  authors: 
-    ZH Gui, J Heinrich, L Morawska, TY Zhao, SHL Yim, XQ Lao, M Gao, ...
-  link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0013935124014580
-    display: "Link"
-  highlight: 0
-- title: "Machine learning‐driven spatiotemporal analysis of ozone exposure and health risks in China"
-  authors: 
-    C Ma, J Song, M Ran, Z Wan, Y Guo, M Gao
-  link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JD041593
-    display: "Link"
-  highlight: 0
-- title: "Consecutive Northward Super Typhoons Induced Extreme Ozone Pollution Events in Eastern China"
-  authors: 
-    J Wang, P Wang, C Tian, M Gao, T Cheng, W Mei
-  link:
-    url: https://www.nature.com/articles/s41612-024-00786-z
-    display: "Link"
-  highlight: 0
+- title: "Future intensification of co-occurrences of heat, PM2.5 and O3 extremes in China and India despite stringent air pollution controls"
+  authors: "Gao, M.#,*, Wang, F.#, Xu, Y., Chen, J., Lu, X. and Carmichael, G.R."
+  journal: "Environ. Res. Lett."
+  status: "in press"
+  year: 2024
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Substantially underestimated global health risks of current ozone pollution"
+  authors: "Wang, Y., Yang, Y., Yuan, Q.*, Li, T., Zhou, Y., Zong, L., Wang, M., Xie, Z., Ho, H.C., Gao, M., Tong, S., Lolli, S. and Zhang, L.*"
+  journal: "Nat. Commun."
+  status: "in press"
+  year: 2024
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Deciphering decadal urban ozone trends from historical records since 1980"
+  authors: "Wang, H., Lu, X.*, Palmer, P. I., Zhang, L., Lu, K., Li, K., Nagashima, T., Koo, J., Tanimoto, H., Wang, H., Gao, M., He, C., Wu, K., Fan, S.*, Zhang, Y.*"
+  journal: "Natl. Sci. Rev."
+  status: "in press"
+  year: 2024
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Risk of preterm birth associated with urban dry island effect and its interaction with temperature and ozone exposure in Chinese cities"
+  authors: "Xiao, X., Gao, M.*, Dong, G.* and Yin, Z.*"
+  journal: "Chin. Sci. Bull."
+  year: 2024
+  doi: "1-.1360/TB-2024-0462"
+  note: "in Chinese"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Malaria transmission risk is projected to increase in the highlands of Western and Northern Rwanda"
+  authors: "Zong, L., Ngarukiyimana, J. P., Yang, Y.*, Yim, S. H. L.*, Zhou, Y., Wang, M., Xie, Z., Ho, H. C., Gao, M., Tong, S. and Lolli, S."
+  journal: "Commun. Earth Environ."
+  year: 2024
+  volume: "5"
+  pages: "559"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Consecutive northward super typhoons induced extreme ozone pollution events in eastern China"
+  authors: "Wang, P.*, Wang, J., Tian, C., Gao, M., Cheng, T. and Mei, W."
+  journal: "npj Clim. Atmos. Sci."
+  status: "in press"
+  year: 2024
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Using individual approach to examine the association between urban heat island and preterm birth: a nationwide cohort study in China"
+  authors: "Xiao, X., Liu, R., Zhang, Z., Jalaludin, B., Heinrich, J., Lao, X., Morawska, Dharmage, S. C., Knibbs, L. D., Dong, G.*, Gao, M.*, and Yin, C.*"
+  journal: "Environ. Int."
+  year: 2014
+  volume: "183"
+  pages: "108356"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Different characteristics of independent and compound extreme heat and ozone pollution in the Greater Bay Area of China"
+  authors: "Huang, Z., Luo, M.*, Gao, M., Ning, G., Ge, E., Chan, T., Wu, S., Zhang, H. and Tang, Y."
+  journal: "Int. J. Appl. Earth Obs. Geoinf."
+  year: 2024
+  volume: "124"
+  pages: "103508"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Machine Learning-driven spatiotemporal analysis of ozone exposure and health risks in China"
+  authors: "Ma, C., Song, J.*, Ran, M., Wan, Z., Guo, Y. and Gao, M."
+  journal: "J. Geophys. Res.-Atmos."
+  status: "in press"
+  year: 2024
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "XR-based interactive visualization platform for real-time exploring dynamic earth science data"
+  authors: "Zhang, X.*, Yang, H., Liu, C., Tong, Q., Xiu, A., Kong, L., Dan, M., Gao, C., Gao, M., Che, H., Wang, X. and Wu, G."
+  journal: "Environ. Modell. Softw."
+  year: 2024
+  volume: "183"
+  pages: "106193"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
 - title: "Accelerating carbon neutral power systems through innovation-driven cost reduction and regional collaboration"
-  authors: 
-    Q Wu, Z Li, X Zhang, C Nie, D Li, M Zhang, M Gao, J Yan, H Jia, C Wang
-  link:
-    url: https://www.cell.com/cell-reports-sustainability/fulltext/S2949-7906(24)00275-1
-    display: "Link"
-  highlight: 0
-- title: "Moderating AC Usage Can Reduce Thermal Disparity between Indoor and Outdoor Environments"
-  authors: 
-    H Wei, B Chen, K Huang, M Gao, B Fan, T Zhang, Y Tu, B Xu
-  link:
-    url: https://pubs.acs.org/doi/abs/10.1021/acs.est.4c00424
-    display: "Link"
-  highlight: 0
-- title: "Uniformly elevated future heat stress in China driven by spatially heterogeneous water vapor changes"
-  authors: 
-    F Wang, M Gao, C Liu, R Zhao, MB McElroy
-  link:
-    url: https://www.nature.com/articles/s41467-024-48895-w
-    display: "Link"
-  highlight: 0
+  authors: "Wu, Q., Li, Z.*, Zhang, X.*, Nie, C., Li, D., Zhang, M.*, Gao, M., Yan, J., Jia, H. and Wang, C."
+  journal: "Cell Rep. Sustain."
+  year: 2024
+  volume: "1"
+  issue: "8"
+  pages: "100176"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Long-term exposure to ozone and sleep disorders in children: a multicity study in China"
+  authors: "Gui, Z., Heinrich, J., Morawska, L., Zhao, T., Yim, S., Lao, X., Gao, M., Chen, D., Ma, H., Lin, L., Liu, R. and Dong, G."
+  journal: "Environ. Res."
+  year: 2024
+  volume: "260"
+  pages: "119553"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Ozone, nitrogen dioxide, and PM2.5 estimation from observation-model machine learning fusion over S. Korea: Influence of observation density, chemical transport model resolution, and geostationary remotely sensed AOD"
+  authors: "Tang, B.*, Stanier, C. O., Carmichael, G. R. and Gao, M."
+  journal: "Atmos. Environ."
+  year: 2024
+  volume: "331"
+  pages: "120603"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Moderating AC usuage can achieve thermal equity between indoor and outdoor environments"
+  authors: "Wei, H., Chen, B.*, Huang, K., Gao, M., Fan, B., Zhang, T., Tu, Y. and Xu, B."
+  journal: "Environ. Sci. Technol."
+  year: 2024
+  volume: "58"
+  issue: "24"
+  pages: "10524-10535"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Uniformly elevated future heat stress in China driven by spatially heterogeneous response of water vapor changes"
+  authors: "Wang, F.#, Gao, M.#,*, Liu, C., Zhao, R. and McElroy, M.B."
+  journal: "Nat. Commun."
+  year: 2024
+  volume: "15"
+  pages: "4522"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Revisiting the quantification of power plant CO2 emissions in the United States and China from satellite: a comparative study using three top-down approaches"
+  authors: "He, C., Lu, X.*, Zhang, Y., Liu, Z., Jiang, F., Sun, Y., Gao, M., Liu, Y., Lin, H., Yang, J., Lin, X., Wang, Y., Hu, C. and Fan, S.*"
+  journal: "Remote. Sens. Environ."
+  year: 2024
+  volume: "308"
+  pages: "114192"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Mixing-layer-height-referenced ozone vertical distribution in the lower troposphere of Chinese megacities: stratification, classification, and meteorological and photochemical mechanisms"
+  authors: "Liao, Z., Gao, M., Zhang, J., Sun, J., Quan, J., Jia, X., Pan, X. and Fan, S.*"
+  journal: "Atmos. Chem. Phys."
+  year: 2024
+  volume: "24"
+  issue: "6"
+  pages: "3541-3557"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Warming climate is helping human beings run faster, jump higher and throw farther through expanding air"
+  authors: "Wang, S., Chen, T, Luo, J.*, Gao, M., Zuo, H., Ling, F., Hu, J., Yuan, C., Yang, Y., Wang, L., Huang, H., Wang, N., Li, Y. and Yamagata, T."
+  journal: "npj Clim. Atmos. Sci."
+  year: 2024
+  volume: "7"
+  issue: "1"
+  pages: "94"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
 - title: "Wasted efforts of elite Marathon runners under a warming climate primarily due to atmospheric oxygen reduction"
-  authors: 
-    S Wang, M Gao, X Xiao, X Jiang, J Luo
-  link:
-    url: https://www.nature.com/articles/s41612-024-00637-x
-    display: "Link"
-  highlight: 0
-- title: "Warming climate is helping human beings run faster, jump higher and throw farther through less dense air"
-  authors: 
-    S Wang, T Chen, JJ Luo, M Gao, H Zuo, F Ling, J Hu, C Yuan, Y Yang, ...
-  link:
-    url: https://www.nature.com/articles/s41612-024-00635-z
-    display: "Link"
-  highlight: 0
-- title: "Arctic amplification–induced decline in West and South Asia dust warrants stronger antidesertification toward carbon neutrality"
-  authors: 
-    F Wang, Y Xu, PN Patel, R Gautam, M Gao, C Liu, Y Ding, H Chen, ...
-  link:
-    url: https://www.pnas.org/doi/abs/10.1073/pnas.2317444121
-    display: "Link"
-  highlight: 0
-- title: "Air quality improvements can strengthen China’s food security"
-  authors: 
-    X Liu, B Chu, R Tang, Y Liu, B Qiu, M Gao, X Li, J Xiao, HZ Sun, X Huang, ...
-  link:
-    url: https://www.nature.com/articles/s43016-023-00882-y
-    display: "Link"
-  highlight: 0
+  authors: "Wang, S., Gao, M.*, Xiao, X., Jiang, X. and Luo, J."
+  journal: "npj Clim. Atmos. Sci."
+  year: 2024
+  volume: "7"
+  issue: "1"
+  pages: "97"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Tracking SO2 plumes from the Tonga volcano eruption with multi-satellite observations"
+  authors: "Xia, C., Liu, C.*, Cai, Z., Wu, H., Li, Q. and Gao, M.*"
+  journal: "iScience"
+  year: 2024
+  volume: "27"
+  issue: "4"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Arctic amplification induced decline in West and South Asia dust warrants stronger anti-desertification towards carbon neutrality"
+  authors: "Wang, F., Xu, Y., Patel, P., Gautam, R., Gao, M.*, Liu, C.*, Ding, Y., Chen, H., Yang, Y., Zhou, Y., Carmichael, G. R. and McElroy, M. B."
+  journal: "Proc. Natl. Acad. Sci. U. S. A."
+  year: 2024
+  volume: "121"
+  issue: "14"
+  pages: "e2317444121"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "The impacts of shipping emissions on lightning: Roles of aerosol-radiation-interactions and aerosol-cloud-interactions"
+  authors: "Sun, R., Lu, X.*, Gao, M.*, Du, Y., Lin, H., Wright, C., He, C. and Yin, K."
+  journal: "Environ. Res. Lett."
+  year: 2024
+  volume: "19"
+  pages: "034038"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Enhanced late spring ozone in southern China by early onset of the South China Sea summer monsoon"
+  authors: "Zhang, X., Lu, X.*, Wang, F., Zhou, W., Wang, P. and Gao, M.*"
+  journal: "J. Geophys. Res.-Atmos."
+  year: 2024
+  volume: "129"
+  issue: "4"
+  pages: "e2023JD039029"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Global, regional, and national burden of ischemic heart disease attributable to ambient PM2.5 from 1990 to 2019: An analysis for the global burden of disease study 2019"
+  authors: "Guo, L., Lin, L, Zhou, Y., Jalaludin, B., Morawska, L., Dharmage, S. C., Knibbs, L. D., Huang, G. F., Chen, D., Ma, H., Gao, M., Heinrich, J., Zhou, P., Gui, Z., Chu, C., Liu, R. and Dong, G."
+  journal: "Environ. Res."
+  year: 2024
+  volume: "241"
+  pages: "117635"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
+- title: "Air quality improvements can strengthen China's food security"
+  authors: "Liu, X., Chu, B., Tang, R., Liu, Y., Liu, B., Gao, M., Li, X., Xiao, J., Sun, H.Z., Huang, X., Desai, A.R., Ding, A. and Wang, H.*"
+  journal: "Nat. Food"
+  year: 2024
+  pages: "1-13"
+  link: "https://pubs.acs.org/doi/10.1021/acsenvironau.4c00080"
