@@ -1,79 +1,134 @@
+- title: "Enhanced wet deposition of nitrogen induced by a landfalling typhoon over East Asia: Implications for the marine eco-environment"
+  authors: "Zhang, Y., Su, X., Ge, B.*, Xu, X., Tan, Q., Chen, G., Xu, D., Chen, X., Wu, L., Gao, M., Pan, X., Guo, J., Liu, X., Fu, J. S. and Wang, Z."
+  journal: "Environ. Sci. Technol. Lett."
+  volume: "9(12)"
+  pages: "1014-1021"
+  year: 2022
+  link: "#"
+
 - title: "Global tropospheric ozone trends, attributions, and radiative impacts in 1995–2017: an integrated analysis using aircraft (IAGOS) observations, ozonesonde, and multi-decadal chemical model simulations"
-  authors: 
-    H Wang, X Lu, DJ Jacob, OR Cooper, KL Chang, K Li, M Gao, Y Liu, ... 
-  link:
-    url: https://acp.copernicus.org/articles/22/13753/2022/
-    display: "Atmospheric Chemistry and Physics 22 (20), 13753-13782"
-  highlight: 0
+  authors: "Wang, H., Lu, X., Jacob, D.J., Cooper, O.R., Chang, K.-L., Li, K., Gao, M., Liu, Y., Sheng, B., Wu, K., Wu, T., Zhang, J., Sauvage, B., Nédélec, P., Blot, R., and Fan, S."
+  journal: "Atmos. Chem. Phys."
+  volume: "22"
+  pages: "13753-13782"
+  year: 2022
+  link: "#"
 
 - title: "Circulation-regulated impacts of aerosol pollution on urban heat island in Beijing"
-  authors: 
-    F Wang, GR Carmichael, J Wang, B Chen, B Huang, Y Li, Y Yang, M Gao
-  link:
-    url: https://acp.copernicus.org/articles/22/13341/2022/acp-22-13341-2022.html
-    display: "Atmospheric Chemistry and Physics 22 (20), 13341-13353"
-  highlight: 0
+  authors: "Wang, F., Carmichael, G., Wang, J., Chen, B., Huang, B., Li, Y., Yang, Y., and Gao, M.*"
+  journal: "Atmos. Chem. Phys."
+  volume: "22"
+  pages: "13341-13353"
+  year: 2022
+  link: "#"
 
-- title: "Observed sensitivities of PM2. 5 and O3 extremes to meteorological conditions in China and implications for the future"
-  authors: 
-   X Zhang, X Xiao, F Wang, G Brasseur, S Chen, J Wang, M Gao
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0160412022003555
-    display: "Environment International 168, 107428"
-  highlight: 0
+- title: "Vertical profiles of the transport fluxes of aerosol and its precursors between Beijing and its southwest cities"
+  authors: "Hu, Q., Liu, C., Li, Q., Liu, T., Ji, X., Zhu, Y., Xing, C., Liu, H., Tan, W. and Gao, M."
+  journal: "Environ. Pollut."
+  volume: "312"
+  pages: "119988"
+  year: 2022
+  link: "#"
 
-- title: "Toward high-performance map-recovery of air pollution using machine learning"
-  authors: 
-    J Song, H Fan, M Gao, Y Xu, M Ran, X Liu, Y Guo
-  link:
-    url: https://pubs.acs.org/doi/abs/10.1021/acsestengg.2c00248
-    display: "ACS ES&T Engineering 3 (1), 73-85"
-  highlight: 0
+- title: "Observed sensitivities of PM2.5 and O3 extremes to meteorological conditions in China"
+  authors: "Zhang, X., Xiao, X., Wang, F., Brasseur, G., Chen, S., Wang, J. and Gao, M.*"
+  journal: "Environ. Int."
+  volume: "168"
+  pages: "107428"
+  year: 2022
+  link: "#"
 
-- title: "Pollution severity-regulated effects of roof strategies on China’s winter PM2.5"
-  authors: 
-    F Wang, GR Carmichael, X Zhang, X Xiao, M Gao
-  link:
-    url: https://www.nature.com/articles/s41612-022-00278-y
-    display: "npj Climate and Atmospheric Science 5 (1), 55"
-  highlight: 0
+- title: "Pollution severity-regulated effects of roof strategies on China's winter PM2.5"
+  authors: "Wang, F., Carmichael, G.R., Zhang, X., Xiao, X. and Gao, M.*"
+  journal: "npj Clim. Atmos. Sci."
+  volume: "5(1)"
+  pages: "55"
+  year: 2022
+  link: "#"
 
-- title: "Long-term PM0. 1 exposure and human blood lipid metabolism: New insight from the 33-community study in China"
-  authors: 
-    W Zhang, M Gao, X Xiao, SL Xu, S Lin, QZ Wu, GB Chen, BY Yang, ...
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0269749122003852
-    display: "Environmental Pollution 303, 119171"
-  highlight: 0
+- title: "Revealing bias of cloud radiative effect in WRF simulation: Bias Quantification and Source Attribution"
+  authors: "Shan, Y., Shi, H., Fan, J., Lin, L., Gao, L., He, C., Gao, M., Miao, L., Zhang, L., Xia, X. and Chen, H."
+  journal: "J. Geophy. Res.-Atmos."
+  pages: "e2021JD036319"
+  year: 2022
+  link: "#"
+
+- title: "Climate effect on cirrus clouds due to decreased aviation during the COVID-19 pandemic"
+  authors: "Zhu, J.*, Penner, J.*, Garnier, A., Boucher, O., Gao, M., Song, L., Deng, J., Liu, C., and Fu, P."
+  journal: "AGU Adv."
+  volume: "3(2)"
+  pages: "e2021AV000546"
+  year: 2022
+  link: "#"
 
 - title: "Joint occurrence of heatwaves and ozone pollution and increased health risks in Beijing, China: role of synoptic weather pattern and urbanization"
-  authors: 
-    L Zong, Y Yang, H Xia, M Gao, Z Sun, Z Zheng, X Li, G Ning, Y Li, S Lolli
-  link:
-    url: https://acp.copernicus.org/articles/22/6523/2022/acp-22-6523-2022.html
-    display: "Atmospheric Chemistry and Physics 22 (10), 6523-6538"
-  highlight: 0
+  authors: "Zong, L., Yang, Y.*, Xia, H.*, Gao, M., Sun, Z., Zheng, Z., Li, X., Ning, G., Li, Y., and Lolli, S."
+  journal: "Atmos. Chem. Phys."
+  volume: "22"
+  pages: "6523-6538"
+  year: 2022
+  link: "#"
 
-- title: "Amplified upward trend of the joint occurrences of heat and ozone extremes in China over 2013–20"
-  authors: 
-    X Xiao, Y Xu, X Zhang, F Wang, X Lu, Z Cai, G Brasseur, M Gao
-  link:
-    url: https://journals.ametsoc.org/view/journals/bams/103/5/BAMS-D-21-0222.1.xml
-    display: "Bulletin of the American Meteorological Society 103 (5), E1330-E1342"
-  highlight: 0
+- title: "Is Greener the better? Associations between greenness and birth outcomes in both urban and non-urban settings"
+  authors: "Xiao, X., Gao, M., Knibbs, L., Heinrich, J., Dharmage, S., Moraswka, L., Lin, S. and Dong, G.*"
+  journal: "Int. J. Epidemiol."
+  volume: "51(1)"
+  pages: "88-98"
+  year: 2022
+  link: "#"
 
-- title: "Stereoscopic hyperspectral remote sensing of the atmospheric environment: Innovation and prospects"
-  authors: 
-    C Liu, C Xing, Q Hu, S Wang, S Zhao, M Gao
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0012825222000423
-    display: "Earth-Science Reviews 226, 103958"
-  highlight: 0
+- title: "Future changes in the meteorological potential for winter haze over Beijing during periods of peak carbon emissions and carbon neutrality in China projected by CMIP6 models"
+  authors: "Wang, J., Liu, Y.*, Ding, Y.*, Yang, Y., Xu, Y., Gao, M., Yang, J., Wu, Q., Li, C., Li, M."
+  journal: "Int. J. Climatol."
+  volume: "42(4)"
+  pages: "2065-2082"
+  year: 2022
+  link: "#"
 
-- title: "Is greener better? Associations between greenness and birth outcomes in both urban and non-urban settings"
-  authors: 
-    X Xiao, M Gao, Y Zhou, SL Xu, LD Knibbs, J Heinrich, SC Dharmage, ...
-  link:
-    url: https://academic.oup.com/ije/article-abstract/51/1/88/6354196
-    display: "International journal of epidemiology 51 (1), 88-98"
-  highlight: 0
+- title: "Optimal planning of air quality-monitoring sites for better depiction of PM2.5 pollution across China"
+  authors: "Zhou, C., Gao, M.*, Li, J., Bai, K., Tang, X., Lu, X., Liu, C., Wang, Z. and Guo, Y.*"
+  journal: "ACS Environ. Au"
+  volume: "2(4)"
+  pages: "314-323"
+  year: 2022
+  link: "#"
+
+- title: "Long-term PM0.1 exposure and human blood lipid metabolism: New insight from the 33-community study in China"
+  authors: "Zhang, W.#, Gao, M.#, Xiao, X.#, Xu, S.L., Lin, S., Wu, Q.Z., Chen, G.B., Yang, B.Y., Hu, L.W., Zeng, X.W. and Hao, Y."
+  journal: "Environ. Pollut."
+  volume: "303"
+  pages: "119171"
+  year: 2022
+  link: "#"
+
+- title: "Stereoscopic hyperspectral remote sensing of the Atmos. Environ.: Innovation and prospects"
+  authors: "Liu, C., Xing, C.*, Hu, Q., Wang, S., Zhao, S, and Gao, M."
+  journal: "Earth-Sci. Rev."
+  volume: "226"
+  pages: "103958"
+  year: 2022
+  link: "#"
+
+- title: "Nitrogen isotope characteristics and source apportionment of atmospheric ammonium in urban cities during a haze event in Northern China Plain"
+  authors: "Xiang, Y.K., Dao, X., Gao, M., Lin, Y.C., Cao, F., Yang, X.Y. and Zhang, Y.L.*"
+  journal: "Atmos. Environ."
+  volume: "269"
+  pages: "118800"
+  year: 2022
+  link: "#"
+
+- title: "Amplified upward trend of the joint occurrences of heat and ozone extremes in China over 2013-2020"
+  authors: "Xiao, X., Xu, Y., Zhang, X., Wang, F., Lu, X., Cai, Z., Brasseur, G., Gao, M.*"
+  journal: "Bull. Amer. Meteorol. Soc."
+  volume: "103(5)"
+  pages: "E1330-1342"
+  year: 2022
+  link: "#"
+
+- title: "ENSO modulation of summertime tropospheric ozone over China"
+  authors: "Yang, Y.*, Li, M., Wang, H., Li, H., Wang, P., Li, K., Gao, M. and Liao, H"
+  journal: "Environ. Res. Lett."
+  volume: "17"
+  pages: "034020"
+  year: 2022
+  link: "#"
