@@ -1,30 +1,102 @@
-- title: "Association of intestinal disorders with Parkinson’s disease and Alzheimer’s disease: a systematic review and meta-analysis"
-  image: dummy.png
-  description: ""
-  authors: 
-    P Fu, M Gao, KKL Yung  
-  link:
-    url: https://pubs.acs.org/doi/abs/10.1021/acschemneuro.9b00607
-    display: ACS chemical neuroscience 11 (3), 395-405
-  highlight: 0
+- title: Seasonal prediction of Indian wintertime aerosol pollution using the ocean memory effect
+  authors: Gao, M., Sherman, P., Song, S., Yu, Y., Wu, Z., and McElroy, M. B.
+  journal: Sci. Adv.
+  year: 2019
+  volume: 5
+  issue: 7
+  pages: eaav4157
+  link: https://doi.org/10.1126/sciadv.aav4157
 
-- title: "Response of aerosol chemistry to clean air action in Beijing, China: Insights from two-year ACSM measurements and model simulations"
-  image: dummy.png
-  description: ""
-  authors: 
-    W Zhou, M Gao, Y He, Q Wang, C Xie, W Xu, J Zhao, W Du, Y Qiu, L Lei, ...
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0269749119335262
-    display: Environmental Pollution 255, 113345
-  highlight: 0
+- title: The influence of dynamics and emissions changes on China's wintertime haze
+  authors: Sherman, P., Gao, M., Song, S., Ohiomoba, P., Archibald, A., and McElroy, M.
+  journal: J. Appl. Meteorol. Climatol.
+  year: 2019
+  volume: 58
+  issue: 7
+  pages: 1603-1611
+  link: https://doi.org/10.1175/JAMC-D-19-0013.1
 
-- title: "Possible heterogeneous chemistry of hydroxymethanesulfonate (HMS) in northern China winter haze"
-  image: dummy.png
-  description: ""
-  authors: 
-    S Song, M Gao, W Xu, Y Sun, DR Worsnop, JT Jayne, Y Zhang, L Zhu, ...      
-  link:
-    url: https://acp.copernicus.org/articles/19/1357/2019/acp-19-1357-2019.html
-    display: Atmospheric Chemistry and Physics 19 (2), 1357-1371
-  highlight: 0
+- title: The carbonaceous aerosol levels still remain a challenge in the Beijing-Tianjin-Hebei region of China: insights from continuous high temporal resolution measurements in multiple cities
+  authors: Ji, D., Gao, M., Maenhaut, W., He, J., Wu, C., Cheng, L., Gao, W., Sun, Y., Sun, J., Xin, J., Wang, L., and Wang, Y.
+  journal: Environ. Int.
+  year: 2019
+  volume: 126
+  pages: 171-183
+  link: https://doi.org/10.1016/j.envint.2019.02.034
 
+- title: Possible heterogeneous hydroxymethanesulfonate (HMS) chemistry in Northern China winter haze and implications for rapid sulfate formation
+  authors: Song, S., Gao, M., Xu, W., Sun, Y., Worsnop, D., Jayne, J., Zhang, Y., Zhu, L., Li, M., Zhou, Z., Cheng, C., Lv, Y., Wang, Y., Peng, W., Xu, X., Lin, N., Wang, Y., Wang, S., Munger, J. W., Jacob, D., and McElroy, M. B.
+  journal: Atmos. Chem. Phys.
+  year: 2019
+  volume: 19
+  pages: 1357-1371
+  link: https://doi.org/10.5194/acp-19-1357-2019
+
+- title: Sources and radiative absorption of water-soluble brown carbon in the high Arctic atmosphere
+  authors: Yue, S., Bikkina, S., Gao, M., Barrie, L. A., Kawamura, K., and Fu, P.
+  journal: J. Geophys. Res.-Atmos.
+  year: 2019
+  volume: 46
+  issue: 24
+  pages: 14881-14891
+  link: https://doi.org/10.1029/2019GL083719
+
+- title: Thermodynamic modeling suggests declines in water uptake and acidity of inorganic aerosols in Beijing winter haze events during 2014/2015–2018/2019
+  authors: Song, S., Nenes, A., Gao, M., Zhang, Y., Liu, P., Shao, J., Ye, D., Xu, W., Liu, L., Sun, Y., Liu, B., Wang, S., and McElroy, M. B.
+  journal: Environ. Sci. Technol. Lett.
+  year: 2019
+  volume: 6
+  issue: 12
+  pages: 752-760
+  link: https://doi.org/10.1021/acs.estlett.9b00621
+
+- title: Response of aerosol chemistry to clean air action in Beijing, China: insights from two-year ACSM measurements and model simulations
+  authors: Zhou, W., Gao, M., He, Y., Wang, Q., Xie, C., Xu, W., Zhao, J., Du, W., Qiu, Y., Lei, L., Fu, P., Wang, Z., Worsnop, D. R., Zhang, Q., and Sun, Y.
+  journal: Environ. Pollut.
+  year: 2019
+  volume: 255
+  pages: 113345
+  link: https://doi.org/10.1016/j.envpol.2019.113345
+
+- title: Characteristics and sources of hourly trace elements in airborne fine particles in urban Beijing, China
+  authors: Cui, Y., Ji, D., Chen, H., Gao, M., Maenhaut, W., He, J., and Wang, Y.
+  journal: J. Geophys. Res.-Atmos.
+  year: 2019
+  volume: 124
+  issue: 21
+  pages: 11595-11613
+  link: https://doi.org/10.1029/2019JD030881
+
+- title: Characteristics of fine particle explosive growth events in Beijing, China: seasonal variation, chemical evolution pattern and formation mechanism
+  authors: Liu, Z., Hu, B., Ji, D., Cheng, M., Gao, W., Shi, S., Xie, Y., Yang, S., Gao, M., Fu, H., Chen, J., and Wang, Y.
+  journal: Sci. Total Environ.
+  year: 2019
+  volume: 687
+  pages: 1073-1086
+  link: https://doi.org/10.1016/j.scitotenv.2019.06.068
+
+- title: A top-down assessment using OMI NO2 suggests an underestimate in the NOx emissions inventory in Seoul, South Korea during KORUS-AQ
+  authors: Goldberg, D., Saide, P., Lamsal, L., de Foy, B., Lu, Z., Woo, J., Kim, Y., Kim, J., Gao, M., Carmichael, G. R., and Streets, D.
+  journal: Atmos. Chem. Phys.
+  year: 2019
+  volume: 19
+  issue: 3
+  pages: 1801-1818
+  link: https://doi.org/10.5194/acp-19-1801-2019
+
+- title: The impact of aerosol-radiation interactions on the effectiveness of emission control measures
+  authors: Zhou, M., Zhang, L., Chen, D., Gu, Y., Fu, T., Gao, M., Zhao, Y., Lu, X., and Zhao, B.
+  journal: Environ. Res. Lett.
+  year: 2019
+  volume: 14
+  pages: 024002
+  link: https://doi.org/10.1088/1748-9326/aaf27d
+
+- title: Surface and tropospheric ozone trends in the Southern Hemisphere since 1990: possible linkages to poleward expansion of the Hadley circulation
+  authors: Lu, X., Zhang, L., Zhao, Y., Jacob, D. J., Hu, Y., Hu, L., Gao, M., Liu, X., Petropavlovskikh, I., McClure-Begley, A., and Querel, R.
+  journal: Sci. Bull.
+  year: 2019
+  volume: 64
+  issue: 6
+  pages: 400-409
+  link: https://doi.org/10.1016/j.scib.2018.12.021
