@@ -1,79 +1,142 @@
-- title: "Different characteristics of independent and compound extreme heat and ozone pollution events in the Greater Bay Area of China"
-  authors: 
-    Z Huang, M Luo, M Gao, G Ning, E Ge, TO Chan, S Wu, H Zhang, Y Tang
-  link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JD039091
-    display: "International Journal of Applied Earth Observation and Geoinformation, 124, 103508"
-  highlight: 0
+- title: "Climate responses in China to domestic and foreign aerosol changes due to clean air actions during 2013–2019"
+  authors: "Guo, J., Yang, Y.*, Wang, H., Wang, P., Li, B., Li, J., Wei, J., Gao, M. and Liao, H."
+  journal: "npj Clim. Atmos. Sci."
+  volume: "6"
+  pages: "160"
+  year: 2023
+  link: "#"
 
 - title: "Physical informed neural network improving the WRF-CHEM results of air pollution using satellite-based remote sensing data"
-  authors: 
-    B Li, Q Hu, M Gao, T Liu, C Zhang, C Liu
-  link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S1352231023004570
-    display: "Atmospheric Environment 311, 120031"
-  highlight: 0
-
-- title: "Climate responses in China to domestic and foreign aerosol changes due to clean air actions during 2013–2019"
-  authors: 
-    J Gao, Y Yang, H Wang, P Wang, B Li, J Li, J Wei, M Gao, H Liao
-  link:
-    url: https://www.nature.com/articles/s41612-023-00488-y
-    display: "npj Climate and Atmospheric Science 6 (1), 160"
-  highlight: 0
+  authors: "Li, B., Hu, Q.*, Gao, M.*, Liu, T., Zhang, C. and Liu, C.*"
+  journal: "Atmos. Environ."
+  volume: "311"
+  pages: "120031"
+  year: 2023
+  link: "#"
 
 - title: "Changes in atmospheric oxidants over Arctic Ocean atmosphere: evidence of oxygen isotope anomaly in nitrate aerosols"
-  authors:
-    Y Zhang, Z Zhao, F Cao, W Song, Y Lin, M Fan, H Yu, H Li, Y Hong, ...
-  link:
-    url: https://www.nature.com/articles/s41612-023-00447-7
-    display: "npj Climate and Atmospheric Science 6 (1), 124"
-  highlight: 0
+  authors: "Zhang Y.*, Zhao, Z., Cao, F., Song, W., Liu, Y., Fan, M., Yu, H., Li, H., Hong, Y. and Gao, M."
+  journal: "npj Clim. Atmos. Sci."
+  volume: "6"
+  pages: "32"
+  year: 2023
+  link: "#"
 
-- title: "Recent progress in atmospheric chemistry research in China: establishing a theoretical framework for the “Air Pollution Complex”"
-  authors: 
-    T Zhu, M Tang, M Gao, X Bi, J Cao, H Che, J Chen, A Ding, P Fu, J Gao, ...
-  link:
-    url: https://link.springer.com/article/10.1007/s00376-023-2379-0
-    display: "Advances in Atmospheric Sciences 40 (8), 1339-1361"
-  highlight: 0
+- title: "Distinct responses of extremes of O3 and PM2.5 to meteorological persistence in China"
+  authors: "Liu, S., Liu, C.*, Hu, Q., Guo, Y. and Gao, M.*"
+  journal: "Atmos. Environ."
+  volume: "309"
+  pages: "119923"
+  year: 2023
+  link: "#"
 
-- title: "Mixing-layer-height-referenced ozone vertical distribution in the lower troposphere of Chinese megacities: Stratification, classification, meteorological, and photochemical mechanisms"
-  authors: 
-    Z Liao, M Gao, J Zhang, J Sun, J Quan, X Jia, Y Pan, S Fan
-  link:
-    url: https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1011/
-    display: "EGUsphere 2023, 1-21"
-  highlight: 0
+- title: "A deep learning approach to increase the value of satellite data for PM2.5 monitoring in China"
+  authors: "Li, B., Liu, C.*, Hu, Q., Sun, M., Zhang, C., Zhang, S., Zhu, Y., Liu, T., Guo, Y., Schultz, M.G., Carmichael, G. R. and Gao., M.*"
+  journal: "Remote. Sens."
+  volume: "15(15)"
+  pages: "3724"
+  year: 2023
+  link: "#"
 
-- title: "A synchronized estimation of hourly surface concentrations of six criteria air pollutants with GEMS data"
-  authors: 
-    Q Yang, J Kim, Y Cho, WJ Lee, DW Lee, Q Yuan, F Wang, C Zhou, ...
-  link:
-    url: https://www.nature.com/articles/s41612-023-00407-1
-    display: "npj Climate and Atmospheric Science 6 (1), 94"
-  highlight: 0
+- title: "Evidence of interactive effects of late-pregnancy exposure to air pollution and extreme temperature on preterm birth in China: a nationwide study"
+  authors: "Xiao, X.#, Liu, R.#, Yu, Y.#, Zhang, Z., Knibbs, L.D., Jalaludin, B., Morawska, L., Dharmage, S.C., Heinrich, J., Papatheodorou, S., Guo, Y., Xu, Y., Jin, L., Guo, Y., Yue, W., Yao, J., Zhang, Y., Wang, C., Gao, S., Zhang, E., Su, S., Zhu, T., Dong, G.*, Gao, M.* and Yin, C.*"
+  journal: "Environ. Res. Lett."
+  volume: "18"
+  pages: "094017"
+  year: 2023
+  link: "#"
 
-- title: "Large-scale climate patterns offer preseasonal hints on the co-occurrence of heat wave and O3 pollution in China"
-  authors: 
-    M Gao, F Wang, Y Ding, Z Wu, Y Xu, X Lu, Z Wang, GR Carmichael, ...
-  link:
-    url: https://www.pnas.org/doi/abs/10.1073/pnas.2218274120
-    display: "Proceedings of the National Academy of Sciences 120 (26), e2218274120"
-  highlight: 0
+- title: "Discordant future climate-driven changes in winter PM2.5 pollution across India under a warming climate"
+  authors: "Zhang, X. Xiao, X., Wang, F., Yang, Y., Liao, H., Wang, S. and Gao, M.*"
+  journal: "Elementa-Sci. Anthrop."
+  volume: "11(1)"
+  pages: "00149"
+  year: 2023
+  link: "#"
+
+- title: "Recent progress of atmospheric chemistry research in China: establishing the theoretical framework of air pollution complex"
+  authors: "Zhu, T., Tang, M., Gao, M. et al."
+  journal: "Adv. Atmos. Sci."
+  volume: "40(8)"
+  pages: "1339-1361"
+  year: 2023
+  link: "#"
+
+- title: "WRF-Chem quantification of transport events and emissions sensitivity in Korea during KORUS-AQ"
+  authors: "Tang, B., Saide, P.E., Gao, M., Carmichael, G.R. and Stanier, C.O.*"
+  journal: "Elementa-Sci. Anthrop."
+  volume: "11(1)"
+  pages: "00096"
+  year: 2023
+  link: "#"
 
 - title: "Aggravated air pollution and health burden due to traffic congestion in urban China"
-  authors: 
-    P Wang, R Zhang, S Sun, M Gao, B Zheng, D Zhang, Y Zhang, ...
-  link:
-    url: https://acp.copernicus.org/articles/23/2983/2023/acp-23-2983-2023.html
-    display: "Atmospheric chemistry and physics 23 (5), 2983-2996"
-  highlight: 0
+  authors: "Wang, P., Zhang, R., Sun, S., Gao, M., Zheng, B., Zhang, D., Zhang, Y., Carmichael, G. R., and Zhang, H."
+  journal: "Atmos. Chem. Phys."
+  volume: "23"
+  pages: "2983-2996"
+  year: 2023
+  link: "#"
+
+- title: "Large-scale climate patterns offer pre-seasonal hints on the co-occurrence of heat wave and O3 pollution in China"
+  authors: "Gao, M.#,*, Wang, F.#, Ding, Y., Wu, Z., Xu, Y., Lu, X., Wang, Z.*, Carmichael, G.R. and McElroy, M.B."
+  journal: "Proc. Natl. Acad. Sci. U. S. A."
+  volume: "120(26)"
+  pages: "e2218274120"
+  year: 2023
+  link: "#"
+
+- title: "Unbalanced emission reductions of different species and sectors in China during COVID-19 lockdown derived by multi-species surface observation assimilation"
+  authors: "Kong, L., Tang, X., Zhu, J., Wang, Z., Sun, Y., Fu, P., Gao, M., Wu, H., Lu, M., Wu, Q., Huang, S., Sui, W., Li, J., Pan, X., Wu, L., Akimoto, H., and Carmichael, G. R."
+  journal: "Atmos. Chem. Phys."
+  volume: "23"
+  pages: "6217-6240"
+  year: 2023
+  link: "#"
+
+- title: "Individual and joint associations of long-term exposure to air pollutants and cardiopulmonary mortality: a 22-year cohort study in Northern China"
+  authors: "Huang, W., Zhou, Y., Chen, X., Zeng, X., Knibbs, L. D., Zhang, Y., Jalaludin, B., Dharmage, S. C., Morawska, L., Guo, Y., Yang, X., Zhang, L., Shan, A., Chen, J., Wang, T., Heinrich, J., Gao, M., Lin, L., Xiao, X., Zhou, P., Yu, Y.*, Tang, N.* and Dong, G.*"
+  journal: "Lancet Reg. Health-W. Pac."
+  volume: "36"
+  year: 2023
+  link: "#"
+
+- title: "Where to place methane monitoring sites in China to better assist carbon management"
+  authors: "Zhang, X. Zhou, C., Zhang, Y., Lu, X., Xiao, X., Wang, F., Song, J., Guo, Y., Leung, K. K. M., Cao, J. and Gao, M.*"
+  journal: "npj Clim. Atmos. Sci."
+  volume: "6"
+  pages: "32"
+  year: 2023
+  link: "#"
+
+- title: "Typhoon-associated air quality over the Guangdong–Hong Kong–Macao Greater Bay Area, China: machine-learning-based prediction and assessment"
+  authors: "Chen, Y., Yang, Y., and Gao, M."
+  journal: "Atmos. Meas. Tech."
+  volume: "16"
+  pages: "1279-1294"
+  year: 2023
+  link: "#"
+
+- title: "Enhanced summertime O3 by lake-atmosphere exchange in the Lake Taihu region"
+  authors: "Wang, F., Wang, Y.* and Gao, M."
+  journal: "Atmos. Environ."
+  volume: "300"
+  pages: "119664"
+  year: 2023
+  link: "#"
+
+- title: "Towards high-performance map-recovery of air pollution exploiting urban big data"
+  authors: "Song, J., Fan, H., Gao, M., Ran, M., Liu, X., Xu, Y. and Guo, Y."
+  journal: "ACS ES&T Eng."
+  volume: "1"
+  pages: "73-85"
+  year: 2023
+  link: "#"
 
 - title: "A new perspective to satellite-based retrieval of ground-level air pollution: Simultaneous estimation of multiple pollutants based on physics-informed multi-task learning"
-  authors: 
-    Q Yang, Q Yuan, M Gao, T Li
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0048969722066414
-    display: "Science of The Total Environment 857, 159542"
-  highlight: 0
+  authors: "Yang, Q., Yuan, Q.*, Gao, M. and Li, T."
+  journal: "Sci. Total Environ."
+  volume: "857"
+  pages: "159542"
+  year: 2023
+  link: "#"
