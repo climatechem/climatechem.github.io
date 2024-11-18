@@ -21,3 +21,6 @@ permalink: "/openings"
 <br />
 
 #### Positions of research assistants, postdocs, and research assistant professors may be available in the group depending on the funding situation. If you are interested, feel free to send an email to [mmgao2@hkbu.edu.hk](mmgao2@hkbu.edu.hk).
+
+<br />
+<br />
