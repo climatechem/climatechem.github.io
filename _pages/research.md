@@ -8,10 +8,10 @@ permalink: "/research/"
 
 # Research
 
-Below are the topics we have been working on:
+#### Below are the topics we have been working on:
 
 
-#### How climate variability affects atmospheric composition and implications for seasonal predictions 
+### How climate variability affects atmospheric composition and implications for seasonal predictions 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/r1.png){: style="width: 520px; float: right; border: 10px;padding:10px"}
 
@@ -23,7 +23,7 @@ Climate variability can significantly affect atmospheric composition in several 
 
 <br />
 
-#### Reference
+### Reference
 
 Gao, M. *, Wang, F., Ding, Y., Wu, Z., Xu, Y., Lu, X., Wang, Z. *, Carmichael, G.R. and McElroy, M.B.: Large-scale climate patterns offer pre-seasonal hints on the co-occurrence of heat wave and O3 pollution in China. Proc. Natl. Acad. Sci. U. S. A., 2023, 120 (26) : e2218274120. [Link](https://www.pnas.org/doi/abs/10.1073/pnas.2218274120).
 
@@ -35,7 +35,7 @@ Gao, M. *, Liu, Z., Zheng, B., Ji, D., Sherman, P., Song, S., Xin, J., Liu, C., 
 
 
 ----
-#### Aerosol-weather-climate interactions
+### Aerosol-weather-climate interactions
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/r2.png){: style="width: 420px; float: left; border: 10px;padding:10px"}
 
@@ -46,7 +46,7 @@ Aerosols can either cool the climate (through scattering) or warm it (through ab
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/r3.png){: style="width: 520px; float: right; border: 10px;padding:10px"}
 
-#### Reference
+### Reference
 
 Wang, F., Xu, Y., Patel, P., Gautam, R., Gao, M.*, Liu, C. *, Ding, Y., Chen, H., Yang, Y., Zhou, Y., Carmichael, G. R. and McElroy, M. B.: Arctic amplification induced decline in West and South Asia dust warrants stronger anti-desertification towards carbon neutrality. Proc. Natl. Acad. Sci. U. S. A., 2024, 121(14): e2317444121. [Link](https://www.pnas.org/doi/abs/10.1073/pnas.2317444121).
 
