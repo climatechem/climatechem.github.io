@@ -8,6 +8,9 @@ permalink: "/research/"
 
 # Research
 
+<br />
+<br />
+
 #### Below are the topics we have been working on:
 
 
