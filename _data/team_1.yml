@@ -33,14 +33,6 @@
   education2: 'BSc, Nanjing University of Information Science and Technology, 2018'
   
  
-- name: Fan Wang (王凡)
-  photo: wangfan.jpg
-  info: PhD student (2021.9 - )
-  email: fanwang@life.hkbu.edu.hk
-  number_educ: 2
-  education1: 'MSc, Nanjing University of Information Science and Technology, 2021'
-  education2: 'Bsc, Nanjing University of Information Science and Technology, 2018'
-
 - name: Haolin Wang (王浩霖)
   photo: wanghaolin.jpg
   info: Research Assistant (2025.3 - )
@@ -58,7 +50,15 @@
   education2: 'MSc, Shandong University, 2021'
   education3: 'BSc, Shandong Normal University, 2018'
 
-  
+- name: Fan Wang (王凡)
+  photo: wangfan.jpg
+  info: PhD student (2021.9 - )
+  email: fanwang@life.hkbu.edu.hk
+  number_educ: 2
+  education1: 'MSc, Nanjing University of Information Science and Technology, 2021'
+  education2: 'Bsc, Nanjing University of Information Science and Technology, 2018'
+
+ 
 - name: Xinyan Li (李欣艳)
   photo: lixinyan.jpg
   info: PhD student (2022.9 - )
