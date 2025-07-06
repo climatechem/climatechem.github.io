@@ -1,7 +1,16 @@
+- name: Xiaorui Zhang (张笑瑞)
+  photo: xiaorui.jpg
+  info: Lectuer in Central China Normal University (2024.12 - )
+  email: xiaoruizhang@ccnu.edu.cn
+  number_educ: 3
+  education1: 'PhD, Hong Kong Baptist University, 2024'
+  education2: 'MSc, Lanzhou University, 2020'
+  education3: 'BSc, Nanjing University of Information Science and Technology, 2017'
+
 - name: Qianqian Yang (杨倩倩)
   photo: qianqianyang.jpg
   info: Postdoctoral Fellow (2023.8 - )
-  email: qianqian_yang@whu.edu.cn
+  email: qianqian_yang@hkbu.edu.hk
   number_educ: 2
   education1: 'PhD, Wuhan University, 2023'
   education2: 'BSc, Wuhan University, 2017'
@@ -14,14 +23,7 @@
   education1: 'PhD, Nanjing University of Information Science and Technology, 2023'
   education2: 'BSc, Nanjing University of Information Science and Technology, 2018'
 
-- name: Wei Zhu (朱伟)
-  photo: zhuwei.jpg
-  info: Postdoctoral Fellow (2024.7 - )
-  email: 2020029006@chd.edu.cn
-  number_educ: 2
-  education1: 'PhD, Changan University, 2024'
-  education2: 'BSc, Inner Mongolia University of Science and Technology, 2017'
-  
+ 
 - name: Huibin Dai (代慧斌)
   photo: daihuibin.jpg
   info: Postdoctoral Fellow (2024.7 - )
@@ -30,15 +32,7 @@
   education1: 'PhD, Nanjing University of Information Science and Technology, 2023'
   education2: 'BSc, Nanjing University of Information Science and Technology, 2018'
   
-- name: Xiaorui Zhang (张笑瑞)
-  photo: xiaorui.jpg
-  info: Research Assistant (2024.10 - )
-  email: 20482221@life.hkbu.edu.hk
-  number_educ: 3
-  education1: 'PhD, Hong Kong Baptist University, 2024'
-  education2: 'MSc, Lanzhou University, 2020'
-  education3: 'BSc, Nanjing University of Information Science and Technology, 2017'
-  
+ 
 - name: Fan Wang (王凡)
   photo: wangfan.jpg
   info: PhD student (2021.9 - )
@@ -46,6 +40,24 @@
   number_educ: 2
   education1: 'MSc, Nanjing University of Information Science and Technology, 2021'
   education2: 'Bsc, Nanjing University of Information Science and Technology, 2018'
+
+- name: Haolin Wang (王浩霖)
+  photo: wanghaolin.jpg
+  info: Research Assistant (2025.3 - )
+  email: haolinwang@hkbu.edu.hk
+  number_educ: 2
+  education1: 'PhD, Sun Yat-sen University, 2024'
+  education2: 'BSc, Chengdu University of Information Technology, 2019'
+
+- name: Shuping Ji（季舒平）
+  photo: JiShuping.jpg
+  info: Postdoctoral Fellow (2025.9 - )
+  email: jishuping@mail.sdu.edu.cn
+  number_educ: 3
+  education1: 'PhD, Shandong University, 2025'
+  education2: 'MSc, Shandong University, 2021'
+  education3: 'BSc, Shandong Normal University, 2018'
+
   
 - name: Xinyan Li (李欣艳)
   photo: lixinyan.jpg
@@ -56,10 +68,10 @@
 
 - name: Yuyang Han (韩雨阳)
   photo: hanyuyang.jpg
-  info: PhD student (2024.9 - )
+  info: PhD student (2024.1 - )
   email: 23484098@life.hkbu.edu.hk
   number_educ: 2
-  education1: 'MSc, University of Chinese Academy of Sciences, 2023'
+  education1: 'MEng, University of Chinese Academy of Sciences, 2023'
   education2: 'Bsc, Nanjing University of Information Science and Technology, 2020'
 
 - name: Guanghong Zhai (翟光宏)
@@ -77,9 +89,27 @@
   education1: 'Msc, Imperial College London, 2024'
   education2: 'Bsc, Nanjing University of Information Science and Technology, 2023'
 
-- name: Zhengwu Ouyang (欧阳正午)
-  photo: zhengwu.jpg
-  info: Mphil student (2022.9 - )
-  email: 22482881@life.hkbu.edu.hk
-  number_educ: 1
-  education1: 'Bsc, Chengdu University of Information Technology, 2022'
+- name: Yue Ke (可玥)
+  photo: keyue.jpg
+  info: PhD student (2025.9 - )
+  email: 
+  number_educ: 2
+  education1: 'Msc, Nanjing University of Information Science and Technology, 2025'
+  education2: 'Bsc, Nanjing University of Information Science and Technology, 2022'
+
+- name: Ao Yang (杨傲)
+  photo: yangao.jpg
+  info: PhD student (2025.9-)
+  email: 
+  number_educ: 2
+  education1: 'Msc, Sun Yat-sen University, 2024'
+  education2: 'Bsc, Jilin University, 2021'
+
+- name: Kai SUN (孙恺)
+  photo: Sunkai.jpg
+  info: PhD student (2025.9 - )
+  email: 
+  number_educ: 3
+  education1: 'MSc/MPH, The University of Hong Kong, 2021'
+  education2: 'MSc, Tsinghua University, 2017'
+  education3: 'Bsc, Tianjin University of Traditional Chinese Medicine, 2013'
