@@ -99,3 +99,21 @@ firstp {
     width: 100%;
     height: auto;
 }
+
+@media (max-width: 767px) {
+  .flex-container {
+    flex-direction: column;
+  }
+  .left-column,
+  .right-column {
+    max-width: 100%;
+    flex: unset;
+  }
+  .right-column {
+    order: 2;
+    margin-top: 2em;
+  }
+  .left-column {
+    order: 1;
+  }
+}
