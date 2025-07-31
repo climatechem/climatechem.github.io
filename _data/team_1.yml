@@ -7,6 +7,15 @@
   education2: 'MSc, Lanzhou University, 2020'
   education3: 'BSc, Nanjing University of Information Science and Technology, 2017'
 
+- name: Fan Wang (王凡)
+  photo: wangfan.jpg
+  info: Research Assistant Professor (2025.7 - )
+  email: fanwang@life.hkbu.edu.hk
+  number_educ: 3
+  education1: 'PhD, Hong Kong Baptist University, 2025'
+  education2: 'MSc, Nanjing University of Information Science and Technology, 2021'
+  education3: 'Bsc, Nanjing University of Information Science and Technology, 2018'
+ 
 - name: Qianqian Yang (杨倩倩)
   photo: qianqianyang.jpg
   info: Postdoctoral Fellow (2023.8 - )
@@ -50,13 +59,7 @@
   education2: 'MSc, Shandong University, 2021'
   education3: 'BSc, Shandong Normal University, 2018'
 
-- name: Fan Wang (王凡)
-  photo: wangfan.jpg
-  info: PhD student (2021.9 - )
-  email: fanwang@life.hkbu.edu.hk
-  number_educ: 2
-  education1: 'MSc, Nanjing University of Information Science and Technology, 2021'
-  education2: 'Bsc, Nanjing University of Information Science and Technology, 2018'
+ 
 
  
 - name: Xinyan Li (李欣艳)
